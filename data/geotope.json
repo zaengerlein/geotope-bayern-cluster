@@ -1,0 +1,1047 @@
+[
+  {
+    "nr": 1,
+    "name": "Großer Pfahl bei Viechtach",
+    "beschreibung": "Dieses Geotop ist Teil des Bayerischen Pfahls, einer geologischen Besonderheit. An einigen Stellen, wie hier in Viechtach, erscheint er als hochaufragende, weiße \"Teufelsmauer\". Diese ist die Füllung einer ausgeprägten geologischen Störungszone der Erdkruste, die auf einer Länge von 150 Kilometern den Bayerischen Wald von Nabburg im Nordwesten bis Passau im Südosten durchschneidet.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/1/index.htm",
+    "cluster": [
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Moor/See/Auen"
+  },
+  {
+    "nr": 2,
+    "name": "Gletscherschliff bei Fischbach",
+    "beschreibung": "Das Geotop östlich der Ortschaft Fischbach (Gemeinde Flintsbach am Inn) zeigt einen großräumig freigelegten Gletscherschliff als Hinterlassenschaft des eiszeitlichen Inntal–Gletschers. Der abgeschliffene Riegel aus Wettersteinkalk weist typische Erscheinungen wie \"Kritzungen\", \"Rundhöcker\" und \"Kolke\" auf.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/2/index.htm",
+    "cluster": [
+      "Glazial"
+    ],
+    "cluster_text": "Glazial"
+  },
+  {
+    "nr": 3,
+    "name": "Burgstein bei Dollnstein",
+    "beschreibung": "Die markante turmartige Felsbildung des Burgsteins ist ein Teil einer Kalkplattform, die in einem subtropischen Flachmeer zur Zeit des Oberen Jura abgelagert wurde. Die Felsen wurden von Ur–Donau und Altmühl herauspräpariert.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/3/index.htm",
+    "cluster": [
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Fluss/Klamm"
+  },
+  {
+    "nr": 4,
+    "name": "Burgberg Falkenberg",
+    "beschreibung": "Der Felsen, auf dem die Burg Falkenberg steht, ist die Typlokalität für den Falkenberger Granit. Hier wurde auch der Begriff \"Wollsackverwitterung\" erstmalig verwendet.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/4/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 5,
+    "name": "Diabasbruch am Galgenberg",
+    "beschreibung": "Das Geotop \"Diabasbruch am Galgenberg\" bei Bernstein am Wald erschließt dunkle Diabase aus dem Oberdevon. Dieses vulkanische Gestein entstand aus untermeerisch ausgeflossener Basaltlava, was die kissenförmig ausgebildeten Gesteinskörper (englisch \"pillows\") im Steinbruch verraten.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/5/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 6,
+    "name": "Ehemaliger Steinbruch im Pingartener Porphyr",
+    "beschreibung": "Das Geotop \"Ehemaliger Steinbruch im Pingartener Porphyr\" erschließt \"Erzhäuser Arkose\": ein zur Zeit des Rotliegenden abgelagertes feldspatreiches Flutsediment, das teilweise von kleinen Flussspat– und Schwerspat-Gängen durchzogen ist. Dieses Gestein erhielt durch eine Verwechslung mit einem ähnlich aussehenden vulkanischen Gestein fälschlicherweise den Namen Pingartener \"Porphyr\".",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/6/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Vulkanisch/Magmatit",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fluss/Klamm, Vulkanisch/Magmatit, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 7,
+    "name": "Basaltbruch am Lindenstumpf",
+    "beschreibung": "Der \"Basaltbruch am Lindenstumpf\" in der Rhön erschließt das herausgewitterte Zentrum eines ehemaligen Vulkans. Eine zur Zeit des Tertiärs aus der Tiefe aufgedrungene Gesteinsschmelze (Magma) erstarrte an der Oberfläche in verschiedenen Formen. Besonders markant sind säulenförmig in \"Meilerstellung\" abgesonderte Basalte.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/7/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit",
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit, Fossilien/Schichten, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 8,
+    "name": "Lechfall und Klamm bei Füssen",
+    "beschreibung": "Das Geotop Lechfall bei Füssen erschließt ein im bayerischen Alpenraum einmaliges Naturdenkmal. Eindrucksvoll stürzen sich die aus den Alpen gespeisten Wassermassen des Lechs über fünf Stufen zwölf Meter in die Tiefe. Unterhalb des Wasserfalls verengt sich der Flusslauf und tritt in die Lechschlucht ein, die der Lech im Laufe von Jahrtausenden in den Fels gegraben hat. Die Lechschlucht ist die einzige im gesamten bayerischen Alpenraum, durch die ein größerer Alpenfluss noch frei und von Menschenhand ungehindert fließen kann.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/8/index.htm",
+    "cluster": [
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Fluss/Klamm"
+  },
+  {
+    "nr": 9,
+    "name": "Steinbruch Aumühle",
+    "beschreibung": "Das Geotop \"Steinbruch Aumühle im Nördlinger Ries\" zeigt die bei einem Meteoriteneinschlag vor knapp 15 Millionen Jahren – beim sogenannten \"Ries-Impakt\" – entstandenen Gesteinsmassen. Diese sind hier in Form von \"Bunter Brekzie\" und grauem, tuffähnlichem \"Suevit\" übereinander abgelagert.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/9/index.htm",
+    "cluster": [
+      "Impakt",
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Impakt, Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 10,
+    "name": "Gipsbruch Endsee",
+    "beschreibung": "Der \"Gipsbruch Endsee\" ist ein ehemaliger Steinbruch, in dem ein 7 m mächtiges Gips Flöz abgebaut wurde. Es entstand vor ca. 230 Millionen Jahren zur Zeit des Mittleren Keuper bei trockenem Klima durch Eindampfung in einer vom Meer abgeschnürten Lagune.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/10/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 11,
+    "name": "Sandsteinfelsen Nürnberger Kaiserburg",
+    "beschreibung": "Das Geotop \"Sandsteinfelsen Nürnberger Kaiserburg\" ist die Typlokalität für den nach ihm benannten \"Burgsandstein\", einer geologischen Schichteinheit des Keupers, die in Franken weit verbreitet ist.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/11/index.htm",
+    "cluster": [
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Fossilien/Schichten"
+  },
+  {
+    "nr": 12,
+    "name": "Frickenhäuser See",
+    "beschreibung": "Das Geotop Frickenhäuser See erschließt ein im nördlichen Unterfranken einmaliges Naturdenkmal: Durch das Zusammenspiel von Erddynamik, Gestein und Wasser im Verlauf der Erdgeschichte bildete sich hier durch Auslaugungsvorgänge im Untergrund ein sogenannter \"Erdfall See\", dessen Entstehung als einziger in der Region nicht vom Menschen beeinflusst wurde.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/12/index.htm",
+    "cluster": [
+      "Karst/Höhle",
+      "Fluss/Klamm",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Karst/Höhle, Fluss/Klamm, Moor/See/Auen"
+  },
+  {
+    "nr": 13,
+    "name": "Weltenburger Enge",
+    "beschreibung": "In der Weltenburger Enge bahnt sich die Donau in einer engen Schlucht den Weg durch die harte Kalktafel des Oberen Jura. Sie benutzt dabei das alte Durchbruchstal eines Nebenflusses, der hier den Riegel zur ursprünglich weiter nördlich fließenden Ur-Donau (heute Altmühltal) durchbrach. Bereits 1840 erhob sie König Ludwig I. zum ersten Naturschutzgebiet Bayerns.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/13/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 14,
+    "name": "Marmorsteinbruch Horwagen",
+    "beschreibung": "Im Geotop \"Marmorsteinbruch Horwagen\" stehen farbenprächtige Flaserkalke aus dem Oberdevon an. Ferner sind Tonschiefer, Diabase und Diabastuffe aus der selben Zeit aufgeschlossen. Die über Jahrhunderte abgebaute einmalige rote Farbvariante des Flaserkalks kam als \"Deutsch Rot Marmor\" in den Handel.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/14/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 15,
+    "name": "Findling Dengelstein",
+    "beschreibung": "Der Dengelstein ist mit einer Höhe von über 8 Metern, einem Volumen von 400 - 500 Kubikmetern und einem Gewicht von 1250 Tonnen der größte noch erhaltene Findling des Kemptner Waldes. Er wurde während der letzten Eiszeit durch den Illergletscher vermutlich vom Rottachberg bis hierher in das Alpenvorland transportiert.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/15/index.htm",
+    "cluster": [
+      "Glazial"
+    ],
+    "cluster_text": "Glazial"
+  },
+  {
+    "nr": 16,
+    "name": "Partnachklamm",
+    "beschreibung": "Die Partnachklamm ist eine der eindrucksvollsten Klammen in den bayerischen Alpen. Auf einer Länge von 700 m durchschneidet sie mächtige Lagen von Alpinem Muschelkalk und Partnachschichten am Fuß des Wettersteingebirges. Die Wände der Klamm reichen bis zu 86 m in die Höhe. Der namensgebende Fluss – die Partnach – entspringt im Reintalanger und wird u.a. durch Schmelzwasser des Schneeferners, dem Rest eines eiszeitlichen Gletschers auf dem Zugspitzplatt, gespeist.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/16/index.htm",
+    "cluster": [
+      "Glazial",
+      "Fluss/Klamm",
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Glazial, Fluss/Klamm, Fossilien/Schichten"
+  },
+  {
+    "nr": 17,
+    "name": "Silberberg Bodenmais",
+    "beschreibung": "Wegen seiner historischen Bergbauspuren über- und untertage gehört der Silberberg bei Bodenmais zu den bekanntesten geologischen Sehenswürdigkeiten des Bayerischen Waldes. Dort wurden seit dem 15. Jahrhundert unter anderem silberhaltige Erze gewonnen. Alte Stollen sind heute durch das Besucherbergwerk zugänglich.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/17/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Bergbau/Steinbruch"
+  },
+  {
+    "nr": 18,
+    "name": "Klettergarten Baierbrunn",
+    "beschreibung": "Im Klettergarten östlich von Buchenhain (Gemeinde Baierbrunn) sind eiszeitliche Schotter am Rand des Isartales aufgeschlossen. Mindestens drei übereinanderliegende Schotterkörper sind im Grad ihrer Verwitterung und Verfestigung zu unterscheiden. Sie werden als Schmelzwasserschotter aus verschiedenen Eiszeiten gedeutet.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/18/index.htm",
+    "cluster": [
+      "Glazial"
+    ],
+    "cluster_text": "Glazial"
+  },
+  {
+    "nr": 19,
+    "name": "Wachsender Felsen von Usterling",
+    "beschreibung": "An den Quellaustritten von kalkreichen Grundwässern findet man häufig Quellkalkbildungen. In seltenen Fällen kommt es zur Entwicklung einer besonderen Form, der \"Steinernen Rinne\". Der \"Wachsende Felsen\" von Usterling ist mit fast 40 m Länge und 5 m Höhe die größte Steinerne Rinne in Deutschland.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/19/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 20,
+    "name": "Basaltkegel Hoher Parkstein",
+    "beschreibung": "Das Geotop \"Basaltkegel Hoher Parkstein\" ist der herausgewitterte Förderschlot eines ehemaligen Vulkans. Zur Zeit des Tertiärs ist Basalt als Gesteinsschmelze (Magma) aus der Tiefe aufgedrungen. In beispielhafter Ausbildung sind heute die bei der Abkühlung entstandenen Basaltsäulen zu sehen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/20/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit",
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit, Fossilien/Schichten"
+  },
+  {
+    "nr": 21,
+    "name": "Oertels Dachschieferbruch",
+    "beschreibung": "Im ehemaligen Oertelsbruch im Trogenbachtal bei Ludwigstadt wurden im 18. und 19. Jahrhundert Tonschiefer des Unterkarbons, sog. \"Blauer Lagerstein\" abgebaut. Sie wurden zur Herstellung von Schiefertafeln sowie zum Dachdecken und für Wandverkleidungen verwendet. Noch heute prägen die schiefergedeckten Häuser das Erscheinungsbild vieler Orte des Frankenwaldes.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/21/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 22,
+    "name": "Schwarzachschlucht",
+    "beschreibung": "Auf über zwei Kilometern Länge hat sich die Schwarzach südlich von Schwarzenbruck schluchtartig in den Burgsandstein eingeschnitten. Der Aufbau des Gesteins mit schräg geschichteten Sandsteinen und Tonzwischenlagen kann hier ebenso gut studiert werden wie vielfältige Erosions- und Verwitterungsformen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/22/index.htm",
+    "cluster": [
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Fluss/Klamm"
+  },
+  {
+    "nr": 23,
+    "name": "Kupferbergwerk Wilhelmine",
+    "beschreibung": "Im \"Bergwerk Wilhelmine\" wurde früher eines der wenigen Kupfervorkommen Bayerns abgebaut. Vor allem die Wand des ehemaligen Tagebaues, in der sich die Stollenmundlöcher befinden, ist von spektakulär blau und grün gefärbten Sekundärmineralen überzogen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/23/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 24,
+    "name": "Scheidegger Wasserfälle",
+    "beschreibung": "Tosend stürzt der Rickenbach über zwei Stufen insgesamt 40 Meter in die Tiefe. Die Stufen werden aus Sandstein– und Nagelfluhbänken der Oberen Süßwassermolasse gebildet. Sie geben Zeugnis über die wechselvolle Ablagerungsgeschichte im bayerischen Alpenvorland, in dem sich seit vielen Millionen von Jahren der Abtragungsschutt der sich hebenden Alpen sammelt.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/24/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 25,
+    "name": "Steinerne Agnes",
+    "beschreibung": "Eine der auffälligsten Felsformen im Berchtesgadener Land ist die \"Steinerne Agnes\". Der Felsturm aus Ramsaudolomit im Lattengebirge wurde durch die Erosion der letzten Jahrtausende geschaffen. Seine bizarre, pilzartige Form erhielt er aufgrund der unterschiedlichen Verwitterungsanfälligkeit seiner Gesteinsschichten.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/25/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 26,
+    "name": "Buchberger Leite am Bayerischen Pfahl",
+    "beschreibung": "Das Geotop ist Teil des \"Bayerischen Pfahls\", einer Störungszone in der Erdkruste, die den Bayerischen Wald nahezu geradlinig durchschneidet. Durch starke Krustenbewegungen entlang dieser Bruchlinie haben die Gesteine tiefgreifende Veränderungen erfahren. In der Buchberger Leite bildete sich so ein neues Gestein, der sogenannte Pfahl–Mylonit (\"Pfahlschiefer\"). Dieser ist hier in seinen unterschiedlichen Ausbildungsformen zu finden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/26/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Bergbau/Steinbruch"
+  },
+  {
+    "nr": 27,
+    "name": "Luisenburg-Felsenlabyrinth",
+    "beschreibung": "Schon Johann Wolfgang von Goethe lockten im Jahr 1785 die riesigen rundlichen Granitblöcke zur Luisenburg. Noch heute ist dieses weithin bekannte Felsenlabyrinth im Fichtelgebirge nicht nur ein beliebtes Ausflugsziel; ein Teil dient auch als Freilichtbühne, auf der in den Sommermonaten zahlreiche Aufführungen stattfinden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/27/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 28,
+    "name": "Hesselberg",
+    "beschreibung": "Mit 689 Metern überragt der Hesselberg, die höchste Erhebung Mittelfrankens, sein Umland um mehr als 200 Meter. Dieser Zeugenberg mit einem Gipfel aus Malmkalksteinen belegt die ehemals viel größerer Ausdehnung der Südlichen Frankenalb. Seine Entstehung verdankt er dem Phänomen der \"Reliefumkehr\".",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/28/index.htm",
+    "cluster": [
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Fossilien/Schichten"
+  },
+  {
+    "nr": 29,
+    "name": "Felsburg Tüchersfeld",
+    "beschreibung": "Eine imposante Felsburg beherrscht die Ortschaft Tüchersfeld in der Fränkischen Schweiz. Die steil aufragenden Felsen sind die Reste eines Riffes, das zur Jurazeit in einem tropischen Meer wuchs. Im Verlauf von Jahrtausenden schnitt sich die Püttlach in den Frankendolomit ein und präparierte dabei einen Umlaufberg als \"Insel\" heraus.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/29/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 30,
+    "name": "Impaktgesteine Wengenhausen",
+    "beschreibung": "In den zertrümmerten Kristallingesteinen des ehemaligen Steinbruches bei Wengenhausen wurden sogenannte \"shatter cones\" gefunden. Diese Strahlenkegel bilden sich beim Einwirken von hohen Drücken und beweisen, dass der Ries-Krater durch einen Meteoriten-Einschlag entstanden ist.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/30/index.htm",
+    "cluster": [
+      "Impakt",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Impakt, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 31,
+    "name": "Breitachklamm",
+    "beschreibung": "Westlich von Oberstdorf hat sich die aus dem Kleinwalsertal kommende Breitach tief in den Schrattenkalk eingeschnitten. In der Breitachklamm, einer der eindrucksvollsten Klammen der Bayerischen Alpen, überwindet sie auf einer Strecke von 1,3 Kilometern in zahlreichen Stufen einen Höhenunterschied von 80 Metern. Die Wände der schmalen Klamm ragen bis 87 Meter in die Höhe.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/31/index.htm",
+    "cluster": [
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Fluss/Klamm"
+  },
+  {
+    "nr": 32,
+    "name": "Blockmeer am Lusen",
+    "beschreibung": "Eine der eindrucksvollsten Felsbildungen im Nationalpark Bayerischer Wald und gleichzeitig eine bekannte geologische Attraktion ist das Blockmeer am Gipfel des Lusen. Auf einer Fläche von mehr als 200.000 Quadratmetern türmen sich Granitblöcke wild übereinander. Seine Entstehung verdankt dieses Blockfeld der Frostverwitterung zur Quartärzeit.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/32/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 33,
+    "name": "Eiszerfallslandschaft Osterseen",
+    "beschreibung": "Wassererfüllte Senken, Moore, markante Hügel und Schotterflächen kennzeichnen das Gebiet der Osterseen südlich des Starnberger Sees als eine typische Eiszerfallslandschaft. Sie entstand beim Abschmelzen der Gletscher der letzten Kaltzeit. Die Reliefformen konnten bis heute nahezu unverändert überdauern, da in das Gebiet später kaum noch Sedimente eingetragen wurden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/33/index.htm",
+    "cluster": [
+      "Glazial",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Glazial, Moor/See/Auen"
+  },
+  {
+    "nr": 34,
+    "name": "Karlsgraben",
+    "beschreibung": "Bereits vor über 1200 Jahren versuchte Kaiser Karl der Große, eine schiffbare Verbindung zwischen Nordsee und Schwarzem Meer herzustellen. Bei Treuchtlingen nähern sich die Flusssysteme von Donau und Main bis auf wenige Kilometer. Dort begann man mit dem Bau eines Kanals, der Fossa Carolina. Geotechnische Baugrundprobleme führten wahrscheinlich dazu, dass das Werk nicht vollendet wurde",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/34/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Fluss/Klamm, Moor/See/Auen"
+  },
+  {
+    "nr": 35,
+    "name": "Muschelkalkprofil Kalbenstein",
+    "beschreibung": "An den Felswänden des Kalbensteins ist ein fast vollständiges Profil durch die rund 90 Meter mächtige Abfolge der Kalk- und Mergelsteine des Unteren Muschelkalkes (Wellenkalk) erschlossen. Ein Bergsturz im Jahr 1784 legte die Felswand frei.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/35/index.htm",
+    "cluster": [
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Fossilien/Schichten"
+  },
+  {
+    "nr": 36,
+    "name": "Kreuzberg in Pleystein",
+    "beschreibung": "Rund 35 Meter überragt die markante Felskuppe des Kreuzberges die Stadt Pleystein. Das Wahrzeichen der Stadt ist der harte Kern eines Pegmatitstockes, der am Ende des Erdaltertums aus einer Gesteinsschmelze erstarrte. Berühmt wurde der Quarzfelsen vor allem wegen seiner schönen und seltenen Mineralien.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/36/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 37,
+    "name": "Toteisloch Wolfsgrube",
+    "beschreibung": "Die Wolfsgrube bei Wildenroth entstand gegen Ende der letzten Kaltzeit am Rand des Isar-Loisachgletschers. Damals löste sich vom \"lebenden\" Gletscher ein Eisblock ab und wurde als \"Toteis\" mit Geröll und Geschiebe überschüttet. Als später das Eis schmolz, blieb die steilwandige, kesselartige Hohlform eines Toteisloches zurück.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/37/index.htm",
+    "cluster": [
+      "Glazial",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Glazial, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 38,
+    "name": "Ofnethöhlen",
+    "beschreibung": "Am Riesrand zwischen Holheim und Utzmemmingen liegt der Riegelberg, eine große Scholle aus Kalkgestein. Ihre heutige verkippte Lage ist auf den Einschlag des Riesmeteoriten zurückzuführen. An ihrer Südwestseite findet man mit den Ofnethöhlen Reste eines ehemaligen Karstsystems, das durch die Einwirkung Kohlendioxidhaltiger Wässer während der letzten Jahrmillionen entstanden war.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/38/index.htm",
+    "cluster": [
+      "Karst/Höhle",
+      "Impakt",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Karst/Höhle, Impakt, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 39,
+    "name": "Eklogit am Weißenstein",
+    "beschreibung": "Das seltene, auffällig rot und grün gefärbte Gestein Eklogit bildet die Bergkuppe des Weißensteins bei Stammbach. Dieser ehemalige Basalt wurde tief unter der Erdoberfläche unter hohen Drücken metamorph geprägt und von der Erosion später wieder freigelegt.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/39/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 40,
+    "name": "Gipskarstquelle Bodenloses Loch",
+    "beschreibung": "Aus dem Bodenlosen Loch bei Unteroestheim sprudeln pro Sekunde mehrere Zehner Liter Wasser. In dem etwa 20 Meter großen Teich befindet sich ein Quelltrichter mit 8 Metern Durchmesser und einer Tiefe von etwa sechs Metern. Die Quelle entstand durch die Auslaugung einer Gipslage im Untergrund.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/40/index.htm",
+    "cluster": [
+      "Karst/Höhle"
+    ],
+    "cluster_text": "Karst/Höhle"
+  },
+  {
+    "nr": 41,
+    "name": "Steinerne Frau am Walberla",
+    "beschreibung": "An ihrem Westrand ist der Frankenalb mit dem Walberla ein Zeugenberg vorgelagert. Seine Hochfläche umsäumen steil abfallende Felswände aus Dolomitgestein. Verwitterung und Abtragung zergliederten das massige, von senkrechten Klüften durchsetzte Gestein, wobei markante Felstürme wie die \"Steinerne Frau\" am Westrand des Walberla entstanden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/41/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 42,
+    "name": "Findling von Steinwies",
+    "beschreibung": "Während der letzten Kaltzeit gelangte der Findling Steinwies mit dem Inn-Chiemsee-Gletscher aus den österreichischen Zentralalpen bis in die Nähe von Au bei Bad Aibling. Nach Abschmelzen des Eises blieb der Gneisblock dort liegen. Er zeugt von großen Transportweiten des Eises und Gletscherständen, die weit ins Alpenvorland hinausreichten.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/42/index.htm",
+    "cluster": [
+      "Glazial",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Glazial, Moor/See/Auen"
+  },
+  {
+    "nr": 43,
+    "name": "Teufelsküche Obergünzburg",
+    "beschreibung": "Wild übereinander gestapelte, große Blöcke aus verfestigten kaltzeitlichen Schottern kennzeichnen die „Teufelsküche“ im Tal der östlichen Günz. Sie stammen aus der steilen, darüber liegenden Talflanke, von wo sie sich in der Nacheiszeit lösten. Als Felssturz oder Hangrutsch glitten sie auf lockeren Schottern sowie Feinsedimenten des tertiären Untergrunds talwärts.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/43/index.htm",
+    "cluster": [
+      "Glazial",
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Glazial, Fossilien/Schichten"
+  },
+  {
+    "nr": 44,
+    "name": "Burgruine Rotenhan",
+    "beschreibung": "Als eine der ungewöhnlichsten Burganlagen Bayerns gilt die Ruine Rotenhan bei Ebern. Als man um das Jahr 1200 den unteren Teil der Burg in den Sandsteinfelsen der Rhät-Lias-Übergangsschichten anlegte, wurden einige Bauteile sogar gänzlich aus dem Felsen herausgemeißelt. Stellenweise sind die alten Bearbeitungsspuren noch im Detail zu erkennen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/44/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 45,
+    "name": "Bodenmühlwand",
+    "beschreibung": "Bei der Bodenmühle am Roten Main befindet sich einer der wenigen natürlichen Gesteinsaufschlüsse im Mittleren Keuper Nordostbayerns. Er gilt seit langer Zeit als wichtiges Dokument für die damals typischen Meeresablagerungen und ihre heutigen Lagerungsverhältnisse. Berühmt wurde er aber vor allem durch wertvolle Fossilfunde.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/45/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten"
+  },
+  {
+    "nr": 46,
+    "name": "Zauberwald Ramsau",
+    "beschreibung": "Vor mehreren tausend Jahren brachen zwischen Schärtenspitze und Steinberg rund 15 Millionen Kubikmeter Gestein los und stürzten mehr als 1000 Meter zu Tal. Dort türmten sie sich als Felsblöcke übereinander und stauten Bäche auf. Es entstand so die reizvolle Landschaft des Zauberwaldes am Hintersee bei Ramsau.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/46/index.htm",
+    "cluster": [
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Moor/See/Auen"
+  },
+  {
+    "nr": 47,
+    "name": "Schwarzes Moor",
+    "beschreibung": "Das etwa 60 ha große Schwarze Moor liegt in einer flachen Hangmulde auf der von vulkanischen Gesteinen geprägten Hochebene der Langen Rhön. Im Gegensatz zu vielen anderen Mooren hat es noch einen relativ ursprünglichen Charakter, da es weitgehend von Trockenlegung und Torfabbau verschont blieb. Entlang eines Rundwegs sind verschiedene Moorstadien vom Nieder- bis zum uhrglasförmig aufgewölbten Hochmoor zu sehen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/47/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit",
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 48,
+    "name": "Molasseprofil Eistobel",
+    "beschreibung": "Im Laufe von vielen tausend Jahren schnitt sich die Obere Argen tief in den Kugel-Laubenberg-Höhenzug ein. So entstand eine etwa 3 km lange Schlucht, in der ein für den geologischen Bau des Voralpenlandes charakteristisches Gesteinsprofil freigelegt ist. Wegen ihrer bizarren Eisbildungen im Winter erhielt die Schlucht den Namen \"Eistobel\".",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/48/index.htm",
+    "cluster": [
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Fluss/Klamm"
+  },
+  {
+    "nr": 49,
+    "name": "Großer Lochstein",
+    "beschreibung": "Der Große Lochstein im Veldensteiner Forst ist ein markanter Felsturm aus Frankendolomit, der vor über 100 Millionen Jahren unter tropischen Klimabedingungen durch Verwitterung entstand. Dieses Dokument einer Karstlandschaft der Unterkreidezeit wurde durch jüngere Sandablagerungen konserviert. Erst die Abtragung dieser Schichten in der jüngsten geologischen Vergangenheit brachte es wieder ans Tageslicht.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/49/index.htm",
+    "cluster": [
+      "Karst/Höhle",
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Karst/Höhle, Fossilien/Schichten"
+  },
+  {
+    "nr": 50,
+    "name": "Serpentinit-Härtling am Föhrenbühl",
+    "beschreibung": "Der Föhrenbühl bei Grötschenreuth bildet einen markanten Höhenzug, an dessen Kammbereich nur selten aufgeschlossene ultrabasische Gesteine der Erbendorfer Grünschieferzone anstehen. Sie stammen vom Boden eines ehemaligen Ozeans des Erdaltertums.Der Name Föhrenbühl beruht auf dem speziellen Bewuchs, der sich auf dem nährstoffarmen Boden angesiedelt hat.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/50/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 51,
+    "name": "Malmschichten am Arzberg",
+    "beschreibung": "Mit seinen eindrucksvollen, 70 Meter hohen Abbauwänden dokumentiert der ehemalige Steinbruch bei Kottingwörth einen Ablagerungszeitraum von etwa 5 Millionen Jahren. Es türmen sich hunderte Schichten von Malm-Kalkstein übereinander, die einen detaillierten Blick in die Entwicklung der Lebewelt im Meer des oberen Jura ermöglichen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/51/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 52,
+    "name": "Mühlsteinbruch Hinterhör",
+    "beschreibung": "Vom 16. bis ins 19. Jahrhundert wurden bei Hinterhör Sandsteine des Helvetikums per Hand als Mühlsteine abgebaut. Sie fanden im weiten Umkreis als Unter- bzw. Bodensteine in den Mühlen Verwendung. Noch heute ist der Steinbruch mit seinen charakteristischen Abbauspuren ein eindrucksvolles Denkmal der Wirtschafts- und Technikgeschichte im Raum Neubeuern.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/52/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Bergbau/Steinbruch"
+  },
+  {
+    "nr": 53,
+    "name": "Blockstrom Kaser Steinstuben",
+    "beschreibung": "Eine Ansammlung mächtiger Gesteinsblöcke zieht an den Kaser Steinstuben über mehr als 100 Meter Länge und bis zu 20 Meter Breite am Hang hinab. Der Blockstrom entstand im Laufe des Quartärs am Rande einer Hochfläche. Infolge der Erosion zerbrach das dort anstehende harte Quarzkonglomerat in Blöcke, die durch Bodenfließen hangabwärts wanderten.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/53/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 54,
+    "name": "Drei-Brüder-Felsen",
+    "beschreibung": "Die Drei-Brüder-Felsen am Rudolfstein stellen ein imposantes Felsenensemble dar, das in der Erdneuzeit von Verwitterung und Abtragung geschaffen wurde. Aufgrund der horizontalen Klüftung des Granitgesteins sind in eindrucksvoller Weise die charakteristischen Formen der Matratzenverwitterung entstanden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/54/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 55,
+    "name": "Peitinger Pechkohle",
+    "beschreibung": "Zwischen dem Lech im Westen und der Leitzach im Osten liegen zahlreiche Kohlevorkommen, die in der Tertiär-Zeit entstanden. Über lange Zeit leistete diese \"Pechkohle\" einen wesentlichen Beitrag zur Energieversorgung Oberbayerns. Am Bühlach bei Peiting wurde beim Straßenbau ein Kohleflöz freigelegt und als Dokument der Erd- und Bergbaugeschichte dauerhaft konserviert.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/55/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 56,
+    "name": "Schutzfelsen Pentling",
+    "beschreibung": "Die ältesten Schichten der Kreidezeit in Bayern außerhalb der Alpen sind nach dem Schutzfels am Donauufer bei Pentling benannt. Dort sind festländische Sande und bunte Tone der Schutzfels-Formation erhalten. Sie wurden am Ende einer langen Sedimentationspause in der Unterkreide über und zwischen tiefgründig verkarsteten Karbonatgesteinen des Malms abgelagert.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/56/index.htm",
+    "cluster": [
+      "Karst/Höhle",
+      "Fluss/Klamm",
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Karst/Höhle, Fluss/Klamm, Fossilien/Schichten"
+  },
+  {
+    "nr": 57,
+    "name": "Schichtstufen am Schwanberg",
+    "beschreibung": "Mit einem markanten Geländeanstieg setzt sich der Steigerwald gegen sein flachwelliges westliches Vorland ab. Am Schwanberg ist diese große, aus mehreren kleineren Abstufungen bestehende \"Keuper-Schichtstufe\" besonders eindrucksvoll entwickelt. Ihre Ursache hat diese Geländeform in der unterschiedlichen Verwitterungsresistenz der Gesteine.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/57/index.htm",
+    "cluster": [
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Fossilien/Schichten"
+  },
+  {
+    "nr": 58,
+    "name": "Granite am Dreisessel",
+    "beschreibung": "Das Massiv des Dreisessels wird überwiegend von Graniten aufgebaut. Aufgrund ihrer Farbe, Korngröße und mineralogischen Zusammensetzung kann man hier auf engem Raum mehrere Granit-Varietäten unterscheiden. So bestehen die Felsburgen am Gipfel aus \"Dreisessel-Granit\", während im Umfeld \"Steinberg-Granit\", \"Haidmühle-Granit\" und \"Eisgarn-Granit\" vorkommen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/58/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 59,
+    "name": "Glimmerschiefer am Osser",
+    "beschreibung": "Im Gegensatz zu allen anderen großen Bergen des Bayerischen und Oberpfälzer Waldes ist das Osser-Massiv aus Glimmerschiefern und Quarziten aufgebaut. Bei der Bildung dieser Gesteine herrschten andere Bedingungen als bei den sonst vorherrschenden Graniten und Gneisen. Sie entstanden aus tonigen Ablagerungen, die unter hohen Temperaturen und Drucken im Erdinneren umgewandelt wurden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/59/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 60,
+    "name": "Wellheimer Trockental",
+    "beschreibung": "In großen Schleifen windet sich das Wellheimer Trockental durch die Juralandschaft der Südlichen Frankenalb. Dort floss ab Beginn des Quartärs die Donau. Vor etwa 70.000 Jahren fiel der Flussabschnitt jedoch trocken, weil das Wasser einen neuen, kürzeren Weg weiter im Süden gefunden hatte.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/60/index.htm",
+    "cluster": [
+      "Karst/Höhle",
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Karst/Höhle, Fluss/Klamm"
+  },
+  {
+    "nr": 61,
+    "name": "Höhlenruine Riesenburg",
+    "beschreibung": "Die Riesenburg stellt die Überreste einer ausgedehnten Karsthöhle im so genannten Frankendolomit dar, die durch teilweise Auflösung des Gesteins unter Einwirkung von Wasser entstand. Später schnitt der Fluss Wiesent die Höhle an und erweiterte sie, wodurch große Teile der Decke einstürzten. Die vorhandenen Bögen stellen die Relikte des ehemaligen Höhlendaches dar.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/61/index.htm",
+    "cluster": [
+      "Karst/Höhle",
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Karst/Höhle, Fluss/Klamm"
+  },
+  {
+    "nr": 62,
+    "name": "Zwölf-Apostel-Felsen",
+    "beschreibung": "Östlich von Solnhofen säumen die Felstürme der Zwölf Apostel den Hang des Altmühltales. Sie sind aus Schwamm-Algen-Kalken aufgebaut und stellen die Reste eines Riffgürtels im tropischen Jurameer dar. Die hellen massigen Kalke sind durch Klüfte zerteilt und durch die Erosion als freistehende Felsen herauspräpariert worden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/62/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 63,
+    "name": "Riesseekalke Hainsfarth",
+    "beschreibung": "Am Sportplatz von Hainsfarth sind Kalkablagerungen aus dem ehemaligen Riessee zu sehen. Dieser hatte sich nach dem Impakt eines Großmeteoriten vor etwa 14,5 Millionen Jahren in dessen Einschlagskrater gebildet. Am Rande des Sees entstanden massige Ablagerungen von fossilführenden Riesseekalken.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/63/index.htm",
+    "cluster": [
+      "Impakt",
+      "Fossilien/Schichten",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Impakt, Fossilien/Schichten, Moor/See/Auen"
+  },
+  {
+    "nr": 64,
+    "name": "Steinachklamm",
+    "beschreibung": "Das tief eingeschnittene Steinachtal, eines der eindrucksvollsten Täler des Frankenwaldes, ist für seinen vielseitigen geologischen Aufbau bekannt. Besonders auffällig ist die felsige Engstelle der Steinachklamm südlich von Wildenstein. Sie entstand dadurch, dass sich der Fluss seinen Weg durch einen Riegel aus \"Quarzkeratophyr\", ein sehr hartes, vulkanisches Gestein, bahnte.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/64/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Fluss/Klamm, Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 65,
+    "name": "Kaolingruben bei Hirschau-Schnaittenbach",
+    "beschreibung": "Riesige Tagebaue, überragt von einem kegelförmigen, weißen Berg, prägen das Gebiet bei Hirschau und Schnaittenbach. Sie sind Zeugen eines seit fast 180 Jahren umgehenden Kaolin-Bergbaues. Dieses unter anderem für die Porzellanherstellung wichtige Rohmaterial entstand durch die chemische Umwandlung von feldspatreichen Sandsteinen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/65/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 66,
+    "name": "Tertiärwelt Aubenham",
+    "beschreibung": "Ungewöhnlich ist der Mischwald, der in Aubenham zum Spazieren und Verweilen einlädt. Ihn prägen Baumarten, deren Vorläufer vor neun Millionen Jahren hier wuchsen. Fossilien aus einer benachbarten Tongrube belegen eine einst vielgestaltige Pflanzen- und Tierwelt, die wir heute als exotisch bezeichnen würden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/66/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 67,
+    "name": "Stockheimer Steinkohle",
+    "beschreibung": "Bei Stockheim und Reitsch befanden sich früher die bedeutendsten Steinkohle-Bergwerke in Bayern. Auf dem Gelände der ehemaligen Grube St. Katharina in Stockheim schürfte man 2008 wieder ein Kohleflöz und seine überlagernden schwarzgrauen, braun anwitternden, feinkörnigen Sedimente auf. Dieser Aufschluss und zwei Stollenmundlöcher erinnern an den alten Bergbau.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/67/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 68,
+    "name": "Buckelwiesen bei Mittenwald",
+    "beschreibung": "Im Niederwerdenfelser Land befand sich früher eine mehr oder weniger zusammenhängende Buckelflur. Diese geomorphologische Besonderheit des alpinen Bereiches wurde teilweise durch Einebnung zerstört. Rund um Mittenwald existieren heute dennoch die größten Buckelwiesen-Restbestände im gesamten Alpenraum.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/68/index.htm",
+    "cluster": [
+      "Glazial"
+    ],
+    "cluster_text": "Glazial"
+  },
+  {
+    "nr": 69,
+    "name": "Doggerfelswand Niederhofen",
+    "beschreibung": "Die Doggerfelsen bei Niederhofen bilden eine 200 Meter lange und etwa 10 Meter hohe Wand aus eisenhaltigen Sandsteinen des Mittleren Juras. In der Felswand befinden sich zahlreiche Eingänge von Felsenkellern. Kleine Eisenerz-Flöze, Sedimentstrukturen und Verwitterungsformen können hier studiert werden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/69/index.htm",
+    "cluster": [
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Fossilien/Schichten"
+  },
+  {
+    "nr": 70,
+    "name": "Flysch im Röthenbachtal",
+    "beschreibung": "Östlich von Halblech schneidet sich der Röthenbach tief in eindrucksvolle, steilstehende Gesteinsschichten der Flysch-Zone ein. Charakteristisch für diese geologische Baueinheit am Alpennordrand sind sich oft wiederholende Sedimentserien. Sie entstanden in der Kreidezeit in Tiefseebecken aus Trübeströmen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/70/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Fossilien/Schichten",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Moor/See/Auen"
+  },
+  {
+    "nr": 71,
+    "name": "Fossilfundstelle Solnhofener Plattenkalke",
+    "beschreibung": "In der Altmühlalb liegt eine Fossilfundstelle von Weltgeltung: Die Solnhofener Plattenkalke vermitteln uns Kenntnisse über mehr als 700 Arten, die zur Zeit des oberen Jura lebten. Möglich werden diese Funde durch den händischen Abbau des begehrten Naturwerksteins.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/71/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 72,
+    "name": "Volkacher Mainschleife",
+    "beschreibung": "Die Volkacher Mainschleife ist die größte Flussmäander-Landschaft in Bayern. Hier sind typische morphologische Phänomene, wie steile Prallhänge und flache Gleithänge trotz großer Umgestaltungen durch den Menschen in jüngster Zeit besonders gut erkennbar. Die geologischen Gegebenheiten haben Auswirkungen auf die verschiedenen u.a. für den Weinbau nutzbaren Flächen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/72/index.htm",
+    "cluster": [
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Fluss/Klamm"
+  },
+  {
+    "nr": 73,
+    "name": "Schlossberg Flossenbürg",
+    "beschreibung": "Wegen seiner kuppelartigen Form und der markanten Absonderung des Gesteins gehört der Schlossberg Flossenbürg zu den bekanntesten Granitfelsen der Oberpfalz. Vor allem im Gipfelbereich und auf der Westseite des Berges zeigt sich die auffällige, zwiebelschalige \"Bankung\", die vermutlich durch Druckentlastung entstanden ist.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/73/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit"
+  },
+  {
+    "nr": 74,
+    "name": "Juraprofil Staffelberg",
+    "beschreibung": "Als Staffelberg bezeichnet man den markanten nördlichen Vorposten der Frankenalb. Seine Schichtfolge reicht vom Unteren Dogger bis in den Malm und bietet damit ein umfangreiches Juraprofil. Durch unterschiedliche Verwitterungsresistenz bedingte Geländestufen (\"Staffeln\") sind hier besonders ausgeprägt und haben zur Namensgebung des Berges beigetragen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/74/index.htm",
+    "cluster": [
+      "Fossilien/Schichten"
+    ],
+    "cluster_text": "Fossilien/Schichten"
+  },
+  {
+    "nr": 75,
+    "name": "Kreidetransgression Obertrübenbach",
+    "beschreibung": "Im Steinbruch Obertrübenbach liegen kreidezeitliche Sedimentgesteine direkt über viel älteren Gesteinen des Grundgebirges. Der im Jahr 2008 wieder freigestellte klassische Aufschluss bietet die einzigartige Möglichkeit in Bayern, die Spuren des Meeresvorstoßes in der Oberkreidezeit, einer \"Transgression\", zu studieren.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/75/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 76,
+    "name": "Ammergauer Wetzsteinbrüche",
+    "beschreibung": "Im Bereich des Scharten-Köpfels bei Unterammergau wurden bis zur Mitte des 20. Jahrhunderts mehrere Steinbrüche in den so genannten Wetzsteinkalken betrieben. Diese meist sehr dünnen, kieselsäurereichen Lagen in den Ammergauer Schichten waren Grundlage für die ehemals bedeutende Wetzsteinmacherei. Abbaustellen und Halden zeugen davon, dass große Mengen Gestein gebrochen werden mussten, um das wenige geeignete Rohmaterial zu gewinnen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/76/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 77,
+    "name": "Nagelfluh am Hochgrat",
+    "beschreibung": "Markante Gipfel und Gesteinsrippen prägen die Bergkette, die sich vom Mittagberg bei Immenstadt über den Hochgrat bis in den Bregenzer Wald erstreckt. Die aus Geröllen zu Konglomerat \"verbackenen\" Gesteine sehen aus, als hätte man Nägel tief in sie eingeschlagen, so dass nur noch die Köpfe herausschauen, weshalb man sie auch als \"Nagelfluh\" bezeichnet.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/77/index.htm",
+    "cluster": [
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Moor/See/Auen"
+  },
+  {
+    "nr": 78,
+    "name": "Sanddüne Seeholz Abensberg",
+    "beschreibung": "Auffällige Sanddünen formen im Seeholz zwischen Abensberg und Offenstetten niedrige, langgestreckte Hügelketten. Diese Anhäufungen von Flugsand sind geologisch sehr jung, teilweise erst im Mittelalter in Folge übermäßiger Landnutzung durch den Menschen entstanden. Das mehrfach umgelagerte Material wurde ursprünglich während vegetationsarmer Kaltzeiten angeweht.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/78/index.htm",
+    "cluster": [
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Moor/See/Auen"
+  },
+  {
+    "nr": 79,
+    "name": "Ruhpoldinger Marmor",
+    "beschreibung": "Rötliche Kalksteine mit knolliger, brekziöser oder spätiger Internstruktur sind am Rand der nördlichen Kalkalpen in kleinen Vorkommen vor allem östlich der Loisach verbreitet. Sie wurden früher – wie der Ruhpoldinger \"Marmor\" am Haßlberg – vielerorts abgebaut. Häufig fanden sie als dekorative Naturwerksteine besonders in sakralen Bauwerken Verwendung.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/79/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Bergbau/Steinbruch"
+  },
+  {
+    "nr": 80,
+    "name": "Gneis am Hochfels",
+    "beschreibung": "Der Hochfels bei Stadlern bildet eine markant aus der Umgebung herausragende Felsrippe aus \"Cordierit-Sillimanit-Gneis“. Zahlreiche Blöcke – Zeugen der Verwitterungs- und Abtragungsvorgänge während des Pleistozäns – umgeben die Felsen. Einzelblöcke und regelrechte Blockfelder prägen zusammen mit der Heidevegetation diese reizvolle Landschaft.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/80/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 81,
+    "name": "Röslauschlucht Gsteinigt",
+    "beschreibung": "Schluchtartig hat sich die Röslau oberhalb von Arzberg in verschiedene metamorphe Gesteine eingeschnitten. Besonders auffällig sind markante Felsen aus Phyllit im unteren Teil der Schlucht. Hier befindet sich auch das Mundloch eines historischen Stollens, der das benachbarte westliche Arzberger Bergbaurevier unterfährt.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/81/index.htm",
+    "cluster": [
+      "Fluss/Klamm"
+    ],
+    "cluster_text": "Fluss/Klamm"
+  },
+  {
+    "nr": 82,
+    "name": "Geologische Orgeln Oberschroffen",
+    "beschreibung": "Im ehemaligen Steinbruch bei Oberschroffen sind zahlreiche Verwitterungsschlote in einem Schotterkonglomerat freigelegt. Diese \"Geologischen Orgeln\" entstanden durch intensive Lösungsverwitterung während eines Interglazials - einer Warmzeit zwischen zwei Kaltzeiten. In eindrucksvoller Weise sind hier die Folgen der Klimaschwankungen der jüngeren Erdgeschichte dokumentiert.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/82/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Bergbau/Steinbruch"
+  },
+  {
+    "nr": 83,
+    "name": "Quaderkalkbruch Kleinochsenfurt",
+    "beschreibung": "Im Gebiet zwischen Würzburg und Rothenburg o.d. Tauber kommt im obersten Muschelkalk eine besondere Gesteinsausbildung vor, die als Quaderkalkfazies bezeichnet wird. Hier sind viele der Kalksteinbänke besonders dick entwickelt und bestehen hauptsächlich aus Schalenresten fossiler Tiere. Die Quaderkalke werden seit Jahrhunderten als begehrter Naturwerkstein in zahlreichen Steinbrüchen abgebaut.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/83/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 84,
+    "name": "Vulkankrater Gebirgsstein",
+    "beschreibung": "Am Gebirgsstein bei Oberbach in der Rhön wurde durch den Abbau von Basalt die Struktur eines ehemaligen Vulkankraters wieder sichtbar. Der im Zentrum des Kraters angelegte Steinbruch erschließt unterschiedliche Gesteine, die bei verschiedenen Ausbruchsphasen entstanden. Sie zeugen so eindrucksvoll vom Werden und Vergehen der Rhöner Vulkane.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/84/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 85,
+    "name": "Mainauen bei Ziegelanger",
+    "beschreibung": "Zwischen Steigerwald und Haßbergen bietet das Maintal interessante Einblicke in die jüngere Flussgeschichte. In der Sandgrube Ziegelanger sind holozäne Sande erschlossen, die im Maintal mehrere Auenterrassen bilden. Darin findet man häufig \"Rannen\"– mächtige fossile Baumstämme – von denen mehrere gut erhaltene Exemplare entlang eines Rundweges zu sehen sind.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/85/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 86,
+    "name": "Werksandsteinbruch Höchberg",
+    "beschreibung": "Der Werksandstein des Unteren Keupers ist aufgrund seiner guten Bearbeitbarkeit ein besonders zu Bildhauer-Arbeiten und zu Bauzwecken geeigneter Sandstein. Wegen seines weitflächigen Vorkommens im und um das Maindreieck wurde er früher in zahlreichen Steinbrüchen gewonnen. Bei Höchberg liegt einer der wenigen gut erhaltenen historischen Werksandsteinbrüche.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/86/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 87,
+    "name": "Sulzheimer Gipshügel",
+    "beschreibung": "Durch die Auslaugung von Gipslagen im Untergrund entstand das unruhige Relief der Sulzheimer Gipshügel. Unterschiedliche Formen wie Erdfälle und Dolinen sowie pilzförmige Härtlinge aus Gips prägen das Gebiet. Als Standort für seltene Florengemeinschaften besitzt der Bereich große ökologische Bedeutung.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/87/index.htm",
+    "cluster": [
+      "Karst/Höhle"
+    ],
+    "cluster_text": "Karst/Höhle"
+  },
+  {
+    "nr": 88,
+    "name": "Helvetikum bei Burgberg",
+    "beschreibung": "Weithin sichtbar überragt der Grünten, der \"Wächter des Allgäus\", den Alpenrand bei Sonthofen. Zum größten Teil besteht er aus steil stehenden Kalk- und Sandsteinen des Helvetikums, die im Steinbruch bei Burgberg zu sehen sind. Eisenerz-führende Lagen in diesen Schichten standen über Jahrhunderte an der Südseite des Berges in Abbau.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/88/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Bergbau/Steinbruch"
+  },
+  {
+    "nr": 89,
+    "name": "Granitzentrum in Hauzenberg",
+    "beschreibung": "Der Hauzenberger Granodiorit war unter seinem Handelsnamen „tiefblauer Hauzenberger Schachetgranit“ ein bekannter und geschätzter Werkstein für vielfältige Steinmetzarbeiten. Nach dem Abbau entstand im Steinbruch Schachet  das Granitzentrum Bayerischer Wald, in dem die Entstehung der Granite sowie deren Gewinnung und Verarbeitung vermittelt werden.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/89/index.htm",
+    "cluster": [
+      "Vulkanisch/Magmatit",
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 90,
+    "name": "Seltenbachschlucht bei Klingenberg am Main",
+    "beschreibung": "Rötlicher „Buntsandstein“ prägt Landschaft und Ortsbilder im Spessart und im Odenwald. Dessen Schichten bilden eine der markantesten Gesteinsabfolgen Unterfrankens. In der Seltenbachschlucht durchwandert man verschiedene dieser Buntsandstein-Schichten, die an den felsigen Schluchtwänden studiert werden können. Am oberen Ausgang der Schlucht befindet sich das Tonbergwerk Klingenberg.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/90/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 91,
+    "name": "Bodenbildungen am Heusterzbühl",
+    "beschreibung": "Im Mitterteicher Becken wurden zur Zeit des Tertiärs Sande und Kiese in einem System verzweigter Flüsse abgelagert. Aus diesen Sedimenten entwickelte sich durch Lösung und Auswaschung von Stoffen im oberen und Ausfällung im unteren Bereich ein Podsol-Boden. Seine markanten Horizonte sind in der Grube Heusterzbühl aufgrund unterschiedlicher Färbung gut zu erkennen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/91/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 92,
+    "name": "Marmorbruch Unterwappenöst",
+    "beschreibung": "Ein typisches Gestein des zentralen Fichtelgebirges ist der Wunsiedler Marmor. Entstanden ist er im früheren Erdaltertum aus kalkigen Meeresablagerungen, die später zu Marmor umgewandelt wurden. Er wurde früher vielerorts – wie hier bei Unterwappenöst – abgebaut und fand als Naturwerkstein sowie zur Kalkherstellung Verwendung.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/92/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Bergbau/Steinbruch"
+  },
+  {
+    "nr": 93,
+    "name": "Wildflusslandschaft Isartal",
+    "beschreibung": "Trotz der Ableitung von Wasser in den Walchensee konnte sich die Isar zwischen Wallgau und dem Sylvensteinspeicher ihren ursprünglichen Charakter bewahren. Auf dieser Strecke fließt sie in einem weiten Bett zwischen steil aufragenden Bergen aus Hauptdolomit. Unterschiedliche, ständig wechselnde Flussläufe und Kiesbänke prägen diese in Bayern fast einmalige Wildflusslandschaft.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/93/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Fluss/Klamm, Moor/See/Auen"
+  },
+  {
+    "nr": 94,
+    "name": "Fossiliengrube Mistelgau",
+    "beschreibung": "Bis zum Jahr 2005 diente die Tongrube Mistelgau dem Abbau von Rohmaterial für die Ziegelherstellung. Doch überregionale Bekanntheit erlangte sie wegen ihrer beeindruckenden Versteinerungen: Ein \"Belemnitenschlachtfeld\" und Reste von Sauriern machen diese Lokalität zu einer der bedeutendsten Fossilfundstellen Europas.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/94/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 95,
+    "name": "Historische Steinbrüche Wernsbach",
+    "beschreibung": "In dem weitläufigen Gelände zwischen Wernsbach und Mauk bieten aufgelassene Sandsteinbrüche eine grandiose Naturkulisse. Ihre Reste findet man als rötliche, verwitterte Felsabbrüche, Steinbögen oder Busch bestandene Sandfelder. Umgeben von hochragenden Kiefern ermöglichen sie einen Blick zurück in die beschwerliche Arbeit der Natursteingewinnung in früherer Zeit.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/95/index.htm",
+    "cluster": [],
+    "cluster_text": "Sonstiges"
+  },
+  {
+    "nr": 96,
+    "name": "Bogenberg",
+    "beschreibung": "Hoch überragt der Bogenberg, der \"heilige Berg Niederbayerns\", das ebene Donautal bei Straubing. Während der Würmeiszeit formte der Fluss seine steilen Hänge an der Süd- und Ostseite. Dort findet man eigenartig zerbrochene und aufgeriebene Gesteine, die fast den gesamten markanten Berg aufbauen.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/96/index.htm",
+    "cluster": [
+      "Glazial",
+      "Fluss/Klamm",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Glazial, Fluss/Klamm, Moor/See/Auen"
+  },
+  {
+    "nr": 97,
+    "name": "Schieferkohle am Uhlenberg",
+    "beschreibung": "Eine Besonderheit des Schwäbischen Voralpenlandes sind Ablagerungen der älteren Kaltzeiten des Quartärs. Am Uhlenberg bei Dinkelscherben findet man aber nicht nur kaltzeitliche Schotter, sondern auch die seltenen Zeugnisse der milderen Unterbrechungen der Kaltzeiten – Flussablagerungen und Schieferkohle einer donauzeitlichen Warmzeit.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/97/index.htm",
+    "cluster": [
+      "Fluss/Klamm",
+      "Bergbau/Steinbruch"
+    ],
+    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch"
+  },
+  {
+    "nr": 98,
+    "name": "Saurierfährten Euerdorf",
+    "beschreibung": "Am Saalrangen nordöstlich Euerdorf wurden in Gesteinen aus der Zeit der Trias Fährten von Dinosaurier-Vorläufern entdeckt. Sie sind eindrucksvolle Zeugen der Lebewelt und des Klimas während des Buntsandsteins. Solche Fährten, die andernorts meist nur in kleinen Platten in Museen aufbewahrt werden, sind hier am Fundort großflächig zu sehen",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/98/index.htm",
+    "cluster": [
+      "Fossilien/Schichten",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Fossilien/Schichten, Moor/See/Auen"
+  },
+  {
+    "nr": 99,
+    "name": "Wackersdorfer Braunkohle",
+    "beschreibung": "Eine weitläufige Seenlandschaft prägt das Westende der Bodenwöhrer Bucht bei Schwandorf. Neben der traditionellen Teichwirtschaft sind die Gewässer vor allem Dokumente des über Jahrzehnte in der Gegend umgehenden Braunkohlenbergbaues. Letzte noch verbliebene Flöze sind im so genannten Westfeld südlich von Wackersdorf heute noch sichtbar.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/99/index.htm",
+    "cluster": [
+      "Bergbau/Steinbruch",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+  },
+  {
+    "nr": 100,
+    "name": "Watzmann-Ostwand mit Eiskapelle",
+    "beschreibung": "Mit fast 1800 Meter Höhe ist die berühmte Ostwand des Watzmann eine der höchsten Felswände der Ostalpen. Am Fuß des imposanten Gebirgsstockes am Ende des Eisbachtals bei St. Bartholomä am Königsee befindet sich das tiefstgelegene dauerhafte Firneisvorkommen im deutschen Alpenraum. Dort hat sich eine Eishöhle gebildet, die ständig ihre Gestalt verändert.",
+    "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/100/index.htm",
+    "cluster": [
+      "Karst/Höhle",
+      "Moor/See/Auen"
+    ],
+    "cluster_text": "Karst/Höhle, Moor/See/Auen"
+  }
+]
