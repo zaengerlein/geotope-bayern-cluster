@@ -43,6 +43,12 @@
     .pill.secondary.active{background:color-mix(in oklab,var(--color-primary) 18%, var(--color-surface));color:var(--color-primary);border-color:var(--color-primary)}
     .filter-help{font-size:var(--text-sm);color:var(--color-text-muted);margin-bottom:var(--space-3)}
     .result-note{font-size:var(--text-sm);color:var(--color-text-muted);margin-top:var(--space-3)}
+    .active-chips{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:var(--space-3)}
+    .chip{display:inline-flex;align-items:center;gap:.45rem;min-height:36px;padding:.45rem .75rem;border-radius:999px;background:var(--color-surface-offset);border:1px solid var(--color-border);font-size:var(--text-sm)}
+    .chip button{border:none;background:none;cursor:pointer;padding:0 .15rem;color:var(--color-text-muted)}
+    .filter-actions{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;margin-top:var(--space-3)}
+    .clear-btn{min-height:44px;padding:.7rem 1rem;border-radius:999px;border:1px solid var(--color-border);background:var(--color-surface);cursor:pointer}
+    .clear-btn:hover{background:var(--color-surface-2)}
     @media (max-width:640px){.filter-blocks{grid-template-columns:1fr}}
   </style>
 </head>
@@ -107,7 +113,11 @@
         <div class="filter-help">1. Zeile: Cluster A-F ein-/ausblenden. Darunter: konkrete Ausprägungen je Cluster per Toggle, auch mehrfach und clusterübergreifend.</div>
         <div class="filter-row" id="cluster-letter-row"></div>
         <div class="filter-blocks" id="cluster-value-blocks"></div>
-        <div class="result-note" id="result-note"></div>
+        <div class="filter-actions">
+          <button class="clear-btn" id="clear-filters" type="button">Alle Filter löschen</button>
+          <div class="result-note" id="result-note"></div>
+        </div>
+        <div class="active-chips" id="active-chips"></div>
       </div>
       <div class="table-wrap panel">
         <table>
@@ -126,6 +136,8 @@
     const search = document.getElementById('search');
     const kpiGrid = document.getElementById('kpi-grid');
     const resultNote = document.getElementById('result-note');
+    const activeChips = document.getElementById('active-chips');
+    const clearFiltersBtn = document.getElementById('clear-filters');
     const clusterLetterRow = document.getElementById('cluster-letter-row');
     const clusterValueBlocks = document.getElementById('cluster-value-blocks');
     const clusterOrder = ['Bergbau/Steinbruch','Moor/See/Auen','Fluss/Klamm','Fossilien/Schichten','Vulkanisch/Magmatit','Karst/Höhle','Glazial','Impakt','Sonstiges'];
@@ -187,6 +199,25 @@
       });
     };
 
+    const renderActiveChips = () => {
+      const chips = [];
+      selectedLetters.forEach(letter => chips.push({type:'letter', label:`Cluster ${letter}`, letter}));
+      selectedValues.forEach((set, letter) => {
+        set.forEach(value => chips.push({type:'value', label:`${letter}: ${value}`, letter, value}));
+      });
+      activeChips.innerHTML = chips.map(c => `<span class="chip">${c.label}<button type="button" data-chip-type="${c.type}" data-letter="${c.letter}"${c.value ? ` data-value="${c.value}"` : ''} aria-label="Filter entfernen">✕</button></span>`).join('');
+      if (!chips.length) activeChips.innerHTML = '';
+    };
+
+    const clearAllFilters = () => {
+      selectedLetters.clear();
+      selectedValues.forEach(set => set.clear());
+      search.value = '';
+      updateFilterUi();
+      renderActiveChips();
+      applyFilters();
+    };
+
     let allData = [];
     const applyFilters = () => {
       const q = search.value.trim().toLowerCase();
@@ -213,6 +244,7 @@
         return true;
       });
       resultNote.textContent = `${filtered.length} Treffer · aktive Cluster: ${selectedLetters.size ? [...selectedLetters].join(', ') : 'keine'} · aktive Wertfilter: ${[...selectedValues.entries()].flatMap(([k,s]) => [...s].map(v => `${k}:${v}`)).length}`;
+      renderActiveChips();
       render(filtered, allData.length);
     };
 
@@ -270,6 +302,25 @@
       });
     };
 
+    const renderActiveChips = () => {
+      const chips = [];
+      selectedLetters.forEach(letter => chips.push({type:'letter', label:`Cluster ${letter}`, letter}));
+      selectedValues.forEach((set, letter) => {
+        set.forEach(value => chips.push({type:'value', label:`${letter}: ${value}`, letter, value}));
+      });
+      activeChips.innerHTML = chips.map(c => `<span class="chip">${c.label}<button type="button" data-chip-type="${c.type}" data-letter="${c.letter}"${c.value ? ` data-value="${c.value}"` : ''} aria-label="Filter entfernen">✕</button></span>`).join('');
+      if (!chips.length) activeChips.innerHTML = '';
+    };
+
+    const clearAllFilters = () => {
+      selectedLetters.clear();
+      selectedValues.forEach(set => set.clear());
+      search.value = '';
+      updateFilterUi();
+      renderActiveChips();
+      applyFilters();
+    };
+
     let allData = [];
     const applyFilters = () => {
       const q = search.value.trim().toLowerCase();
@@ -296,6 +347,7 @@
         return true;
       });
       resultNote.textContent = `${filtered.length} Treffer · aktive Cluster: ${selectedLetters.size ? [...selectedLetters].join(', ') : 'keine'} · aktive Wertfilter: ${[...selectedValues.entries()].flatMap(([k,s]) => [...s].map(v => `${k}:${v}`)).length}`;
+      renderActiveChips();
       render(filtered, allData.length);
     };
 
@@ -325,6 +377,24 @@
         <div><strong>JSON</strong><span>Quelle: ./data/geotope.json</span></div>`;
     };
 
+    activeChips.addEventListener('click', (e) => {
+      const btn = e.target.closest('[data-chip-type]');
+      if (!btn) return;
+      const type = btn.dataset.chipType;
+      const letter = btn.dataset.letter;
+      const value = btn.dataset.value;
+      if (type === 'letter') {
+        selectedLetters.delete(letter);
+        selectedValues.get(letter).clear();
+      } else if (type === 'value') {
+        selectedValues.get(letter).delete(value);
+      }
+      updateFilterUi();
+      applyFilters();
+    });
+
+    clearFiltersBtn.addEventListener('click', clearAllFilters);
+
     const init = async () => {
       const res = await fetch('./data/geotope.json');
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -334,6 +404,7 @@
       updateFilterUi();
       render(data, data.length);
       resultNote.textContent = `${data.length} Treffer · aktive Cluster: keine · aktive Wertfilter: 0`;
+      renderActiveChips();
       search.addEventListener('input', applyFilters);
     };
 
