@@ -7,7 +7,28 @@
     "cluster": [
       "Moor/See/Auen"
     ],
-    "cluster_text": "Moor/See/Auen"
+    "cluster_text": "Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Felsformation",
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Bayerischer Wald/Oberpfalz"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 2,
@@ -17,7 +38,27 @@
     "cluster": [
       "Glazial"
     ],
-    "cluster_text": "Glazial"
+    "cluster_text": "Glazial",
+    "clusterGroups": {
+      "A": [
+        "Glazial"
+      ],
+      "B": [
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 3,
@@ -27,7 +68,27 @@
     "cluster": [
       "Fluss/Klamm"
     ],
-    "cluster_text": "Fluss/Klamm"
+    "cluster_text": "Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 4,
@@ -37,7 +98,27 @@
     "cluster": [
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Vulkanisch/Magmatit"
+    "cluster_text": "Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 5,
@@ -48,7 +129,28 @@
       "Vulkanisch/Magmatit",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch"
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Aufschluss"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 6,
@@ -60,7 +162,32 @@
       "Vulkanisch/Magmatit",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fluss/Klamm, Vulkanisch/Magmatit, Bergbau/Steinbruch"
+    "cluster_text": "Fluss/Klamm, Vulkanisch/Magmatit, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Vulkanisch/Magmatit",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch",
+        "Talform"
+      ],
+      "C": [
+        "Aufschluss"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär",
+        "Magmatisch"
+      ],
+      "F": [
+        "Hydrologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 7,
@@ -72,7 +199,30 @@
       "Fossilien/Schichten",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Vulkanisch/Magmatit, Fossilien/Schichten, Bergbau/Steinbruch"
+    "cluster_text": "Vulkanisch/Magmatit, Fossilien/Schichten, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit",
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Aufschluss",
+        "Lehrpfad/Besucherbergwerk"
+      ],
+      "D": [
+        "Rhön"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 8,
@@ -82,7 +232,31 @@
     "cluster": [
       "Fluss/Klamm"
     ],
-    "cluster_text": "Fluss/Klamm"
+    "cluster_text": "Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Klamm/Schlucht",
+        "Felsformation",
+        "Talform"
+      ],
+      "C": [
+        "Aufschluss",
+        "Naturdenkmal"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 9,
@@ -94,7 +268,30 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Impakt, Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Impakt, Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Impakt",
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 10,
@@ -106,7 +303,31 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Hydrologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 11,
@@ -116,7 +337,27 @@
     "cluster": [
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Fossilien/Schichten"
+    "cluster_text": "Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 12,
@@ -128,7 +369,31 @@
       "Fluss/Klamm",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Karst/Höhle, Fluss/Klamm, Moor/See/Auen"
+    "cluster_text": "Karst/Höhle, Fluss/Klamm, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle",
+        "Fluss/Klamm",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Aufschluss",
+        "Naturdenkmal"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 13,
@@ -139,7 +404,31 @@
       "Fluss/Klamm",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch"
+    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Klamm/Schlucht",
+        "Steinbruch",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 14,
@@ -150,7 +439,30 @@
       "Vulkanisch/Magmatit",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch"
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär",
+        "Magmatisch",
+        "Metamorph"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 15,
@@ -160,7 +472,28 @@
     "cluster": [
       "Glazial"
     ],
-    "cluster_text": "Glazial"
+    "cluster_text": "Glazial",
+    "clusterGroups": {
+      "A": [
+        "Glazial"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen",
+        "Alpenvorland"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 16,
@@ -172,7 +505,31 @@
       "Fluss/Klamm",
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Glazial, Fluss/Klamm, Fossilien/Schichten"
+    "cluster_text": "Glazial, Fluss/Klamm, Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Glazial",
+        "Fluss/Klamm",
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Klamm/Schlucht",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 17,
@@ -182,7 +539,28 @@
     "cluster": [
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Bergbau/Steinbruch"
+    "cluster_text": "Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Ausflugsziel",
+        "Lehrpfad/Besucherbergwerk"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 18,
@@ -192,7 +570,28 @@
     "cluster": [
       "Glazial"
     ],
-    "cluster_text": "Glazial"
+    "cluster_text": "Glazial",
+    "clusterGroups": {
+      "A": [
+        "Glazial"
+      ],
+      "B": [
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 19,
@@ -200,7 +599,27 @@
     "beschreibung": "An den Quellaustritten von kalkreichen Grundwässern findet man häufig Quellkalkbildungen. In seltenen Fällen kommt es zur Entwicklung einer besonderen Form, der \"Steinernen Rinne\". Der \"Wachsende Felsen\" von Usterling ist mit fast 40 m Länge und 5 m Höhe die größte Steinerne Rinne in Deutschland.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/19/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 20,
@@ -211,7 +630,28 @@
       "Vulkanisch/Magmatit",
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Vulkanisch/Magmatit, Fossilien/Schichten"
+    "cluster_text": "Vulkanisch/Magmatit, Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit",
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 21,
@@ -222,7 +662,30 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Metamorph"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 22,
@@ -232,7 +695,27 @@
     "cluster": [
       "Fluss/Klamm"
     ],
-    "cluster_text": "Fluss/Klamm"
+    "cluster_text": "Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Klamm/Schlucht"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 23,
@@ -243,7 +726,29 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 24,
@@ -251,7 +756,28 @@
     "beschreibung": "Tosend stürzt der Rickenbach über zwei Stufen insgesamt 40 Meter in die Tiefe. Die Stufen werden aus Sandstein– und Nagelfluhbänken der Oberen Süßwassermolasse gebildet. Sie geben Zeugnis über die wechselvolle Ablagerungsgeschichte im bayerischen Alpenvorland, in dem sich seit vielen Millionen von Jahren der Abtragungsschutt der sich hebenden Alpen sammelt.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/24/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen",
+        "Alpenvorland"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 25,
@@ -259,7 +785,27 @@
     "beschreibung": "Eine der auffälligsten Felsformen im Berchtesgadener Land ist die \"Steinerne Agnes\". Der Felsturm aus Ramsaudolomit im Lattengebirge wurde durch die Erosion der letzten Jahrtausende geschaffen. Seine bizarre, pilzartige Form erhielt er aufgrund der unterschiedlichen Verwitterungsanfälligkeit seiner Gesteinsschichten.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/25/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 26,
@@ -269,7 +815,27 @@
     "cluster": [
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Bergbau/Steinbruch"
+    "cluster_text": "Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Bayerischer Wald/Oberpfalz"
+      ],
+      "E": [
+        "Metamorph"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 27,
@@ -279,7 +845,27 @@
     "cluster": [
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Vulkanisch/Magmatit"
+    "cluster_text": "Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Ausflugsziel"
+      ],
+      "D": [
+        "Bayerischer Wald/Oberpfalz"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 28,
@@ -289,7 +875,27 @@
     "cluster": [
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Fossilien/Schichten"
+    "cluster_text": "Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 29,
@@ -297,7 +903,27 @@
     "beschreibung": "Eine imposante Felsburg beherrscht die Ortschaft Tüchersfeld in der Fränkischen Schweiz. Die steil aufragenden Felsen sind die Reste eines Riffes, das zur Jurazeit in einem tropischen Meer wuchs. Im Verlauf von Jahrtausenden schnitt sich die Püttlach in den Frankendolomit ein und präparierte dabei einen Umlaufberg als \"Insel\" heraus.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/29/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 30,
@@ -308,7 +934,30 @@
       "Impakt",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Impakt, Bergbau/Steinbruch"
+    "cluster_text": "Impakt, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Impakt",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 31,
@@ -318,7 +967,29 @@
     "cluster": [
       "Fluss/Klamm"
     ],
-    "cluster_text": "Fluss/Klamm"
+    "cluster_text": "Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Klamm/Schlucht",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 32,
@@ -328,7 +999,27 @@
     "cluster": [
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Vulkanisch/Magmatit"
+    "cluster_text": "Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Ausflugsziel"
+      ],
+      "D": [
+        "Bayerischer Wald/Oberpfalz"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 33,
@@ -339,7 +1030,28 @@
       "Glazial",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Glazial, Moor/See/Auen"
+    "cluster_text": "Glazial, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Glazial",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpenvorland"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 34,
@@ -350,7 +1062,29 @@
       "Fluss/Klamm",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Fluss/Klamm, Moor/See/Auen"
+    "cluster_text": "Fluss/Klamm, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 35,
@@ -360,7 +1094,27 @@
     "cluster": [
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Fossilien/Schichten"
+    "cluster_text": "Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Aufschluss"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 36,
@@ -368,7 +1122,27 @@
     "beschreibung": "Rund 35 Meter überragt die markante Felskuppe des Kreuzberges die Stadt Pleystein. Das Wahrzeichen der Stadt ist der harte Kern eines Pegmatitstockes, der am Ende des Erdaltertums aus einer Gesteinsschmelze erstarrte. Berühmt wurde der Quarzfelsen vor allem wegen seiner schönen und seltenen Mineralien.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/36/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 37,
@@ -379,7 +1153,28 @@
       "Glazial",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Glazial, Bergbau/Steinbruch"
+    "cluster_text": "Glazial, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Glazial",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 38,
@@ -391,7 +1186,29 @@
       "Impakt",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Karst/Höhle, Impakt, Bergbau/Steinbruch"
+    "cluster_text": "Karst/Höhle, Impakt, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle",
+        "Impakt",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Höhle"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 39,
@@ -401,7 +1218,28 @@
     "cluster": [
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Vulkanisch/Magmatit"
+    "cluster_text": "Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Magmatisch",
+        "Metamorph"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 40,
@@ -411,7 +1249,27 @@
     "cluster": [
       "Karst/Höhle"
     ],
-    "cluster_text": "Karst/Höhle"
+    "cluster_text": "Karst/Höhle",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 41,
@@ -419,7 +1277,27 @@
     "beschreibung": "An ihrem Westrand ist der Frankenalb mit dem Walberla ein Zeugenberg vorgelagert. Seine Hochfläche umsäumen steil abfallende Felswände aus Dolomitgestein. Verwitterung und Abtragung zergliederten das massige, von senkrechten Klüften durchsetzte Gestein, wobei markante Felstürme wie die \"Steinerne Frau\" am Westrand des Walberla entstanden.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/41/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 42,
@@ -430,7 +1308,31 @@
       "Glazial",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Glazial, Moor/See/Auen"
+    "cluster_text": "Glazial, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Glazial",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Felsformation",
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen",
+        "Alpenvorland"
+      ],
+      "E": [
+        "Metamorph"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 43,
@@ -441,7 +1343,29 @@
       "Glazial",
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Glazial, Fossilien/Schichten"
+    "cluster_text": "Glazial, Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Glazial",
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Felsformation",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 44,
@@ -449,7 +1373,27 @@
     "beschreibung": "Als eine der ungewöhnlichsten Burganlagen Bayerns gilt die Ruine Rotenhan bei Ebern. Als man um das Jahr 1200 den unteren Teil der Burg in den Sandsteinfelsen der Rhät-Lias-Übergangsschichten anlegte, wurden einige Bauteile sogar gänzlich aus dem Felsen herausgemeißelt. Stellenweise sind die alten Bearbeitungsspuren noch im Detail zu erkennen.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/44/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 45,
@@ -460,7 +1404,28 @@
       "Fluss/Klamm",
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Fluss/Klamm, Fossilien/Schichten"
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Paläontologie"
+      ]
+    }
   },
   {
     "nr": 46,
@@ -470,7 +1435,30 @@
     "cluster": [
       "Moor/See/Auen"
     ],
-    "cluster_text": "Moor/See/Auen"
+    "cluster_text": "Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Felsformation",
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 47,
@@ -482,7 +1470,30 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit",
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See"
+      ],
+      "C": [
+        "Ausflugsziel",
+        "Lehrpfad/Besucherbergwerk"
+      ],
+      "D": [
+        "Rhön"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 48,
@@ -492,7 +1503,28 @@
     "cluster": [
       "Fluss/Klamm"
     ],
-    "cluster_text": "Fluss/Klamm"
+    "cluster_text": "Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Klamm/Schlucht"
+      ],
+      "C": [
+        "Aufschluss"
+      ],
+      "D": [
+        "Alpen",
+        "Alpenvorland"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 49,
@@ -503,7 +1535,28 @@
       "Karst/Höhle",
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Karst/Höhle, Fossilien/Schichten"
+    "cluster_text": "Karst/Höhle, Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle",
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 50,
@@ -511,7 +1564,27 @@
     "beschreibung": "Der Föhrenbühl bei Grötschenreuth bildet einen markanten Höhenzug, an dessen Kammbereich nur selten aufgeschlossene ultrabasische Gesteine der Erbendorfer Grünschieferzone anstehen. Sie stammen vom Boden eines ehemaligen Ozeans des Erdaltertums.Der Name Föhrenbühl beruht auf dem speziellen Bewuchs, der sich auf dem nährstoffarmen Boden angesiedelt hat.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/50/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Metamorph"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 51,
@@ -522,7 +1595,28 @@
       "Fossilien/Schichten",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 52,
@@ -532,7 +1626,27 @@
     "cluster": [
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Bergbau/Steinbruch"
+    "cluster_text": "Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 53,
@@ -540,7 +1654,27 @@
     "beschreibung": "Eine Ansammlung mächtiger Gesteinsblöcke zieht an den Kaser Steinstuben über mehr als 100 Meter Länge und bis zu 20 Meter Breite am Hang hinab. Der Blockstrom entstand im Laufe des Quartärs am Rande einer Hochfläche. Infolge der Erosion zerbrach das dort anstehende harte Quarzkonglomerat in Blöcke, die durch Bodenfließen hangabwärts wanderten.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/53/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 54,
@@ -550,7 +1684,28 @@
     "cluster": [
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Vulkanisch/Magmatit"
+    "cluster_text": "Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Felsformation",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 55,
@@ -563,7 +1718,30 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 56,
@@ -575,7 +1753,29 @@
       "Fluss/Klamm",
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Karst/Höhle, Fluss/Klamm, Fossilien/Schichten"
+    "cluster_text": "Karst/Höhle, Fluss/Klamm, Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle",
+        "Fluss/Klamm",
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 57,
@@ -585,7 +1785,27 @@
     "cluster": [
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Fossilien/Schichten"
+    "cluster_text": "Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 58,
@@ -595,7 +1815,27 @@
     "cluster": [
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Vulkanisch/Magmatit"
+    "cluster_text": "Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 59,
@@ -605,7 +1845,28 @@
     "cluster": [
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Vulkanisch/Magmatit"
+    "cluster_text": "Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Magmatisch",
+        "Metamorph"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 60,
@@ -616,7 +1877,29 @@
       "Karst/Höhle",
       "Fluss/Klamm"
     ],
-    "cluster_text": "Karst/Höhle, Fluss/Klamm"
+    "cluster_text": "Karst/Höhle, Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle",
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 61,
@@ -627,7 +1910,29 @@
       "Karst/Höhle",
       "Fluss/Klamm"
     ],
-    "cluster_text": "Karst/Höhle, Fluss/Klamm"
+    "cluster_text": "Karst/Höhle, Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle",
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Höhle",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 62,
@@ -635,7 +1940,28 @@
     "beschreibung": "Östlich von Solnhofen säumen die Felstürme der Zwölf Apostel den Hang des Altmühltales. Sie sind aus Schwamm-Algen-Kalken aufgebaut und stellen die Reste eines Riffgürtels im tropischen Jurameer dar. Die hellen massigen Kalke sind durch Klüfte zerteilt und durch die Erosion als freistehende Felsen herauspräpariert worden.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/62/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 63,
@@ -647,7 +1973,30 @@
       "Fossilien/Schichten",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Impakt, Fossilien/Schichten, Moor/See/Auen"
+    "cluster_text": "Impakt, Fossilien/Schichten, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Impakt",
+        "Fossilien/Schichten",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Paläontologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 64,
@@ -658,7 +2007,31 @@
       "Fluss/Klamm",
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Fluss/Klamm, Vulkanisch/Magmatit"
+    "cluster_text": "Fluss/Klamm, Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Klamm/Schlucht",
+        "Felsformation",
+        "Talform"
+      ],
+      "C": [
+        "Ausflugsziel"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 65,
@@ -669,7 +2042,29 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 66,
@@ -680,7 +2075,30 @@
       "Fossilien/Schichten",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Paläontologie",
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 67,
@@ -691,7 +2109,30 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See"
+      ],
+      "C": [
+        "Aufschluss"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Hydrologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 68,
@@ -701,7 +2142,27 @@
     "cluster": [
       "Glazial"
     ],
-    "cluster_text": "Glazial"
+    "cluster_text": "Glazial",
+    "clusterGroups": {
+      "A": [
+        "Glazial"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 69,
@@ -711,7 +2172,27 @@
     "cluster": [
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Fossilien/Schichten"
+    "cluster_text": "Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 70,
@@ -723,7 +2204,31 @@
       "Fossilien/Schichten",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Moor/See/Auen"
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Fossilien/Schichten",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 71,
@@ -734,7 +2239,29 @@
       "Fossilien/Schichten",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Paläontologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 72,
@@ -744,7 +2271,28 @@
     "cluster": [
       "Fluss/Klamm"
     ],
-    "cluster_text": "Fluss/Klamm"
+    "cluster_text": "Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 73,
@@ -754,7 +2302,27 @@
     "cluster": [
       "Vulkanisch/Magmatit"
     ],
-    "cluster_text": "Vulkanisch/Magmatit"
+    "cluster_text": "Vulkanisch/Magmatit",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Ausflugsziel"
+      ],
+      "D": [
+        "Bayerischer Wald/Oberpfalz"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 74,
@@ -764,7 +2332,27 @@
     "cluster": [
       "Fossilien/Schichten"
     ],
-    "cluster_text": "Fossilien/Schichten"
+    "cluster_text": "Fossilien/Schichten",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Aufschluss"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 75,
@@ -775,7 +2363,28 @@
       "Fossilien/Schichten",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Aufschluss"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 76,
@@ -786,7 +2395,29 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Felsformation",
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 77,
@@ -796,7 +2427,27 @@
     "cluster": [
       "Moor/See/Auen"
     ],
-    "cluster_text": "Moor/See/Auen"
+    "cluster_text": "Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 78,
@@ -806,7 +2457,28 @@
     "cluster": [
       "Moor/See/Auen"
     ],
-    "cluster_text": "Moor/See/Auen"
+    "cluster_text": "Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 79,
@@ -816,7 +2488,27 @@
     "cluster": [
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Bergbau/Steinbruch"
+    "cluster_text": "Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 80,
@@ -824,7 +2516,27 @@
     "beschreibung": "Der Hochfels bei Stadlern bildet eine markant aus der Umgebung herausragende Felsrippe aus \"Cordierit-Sillimanit-Gneis“. Zahlreiche Blöcke – Zeugen der Verwitterungs- und Abtragungsvorgänge während des Pleistozäns – umgeben die Felsen. Einzelblöcke und regelrechte Blockfelder prägen zusammen mit der Heidevegetation diese reizvolle Landschaft.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/80/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Metamorph"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 81,
@@ -834,7 +2546,28 @@
     "cluster": [
       "Fluss/Klamm"
     ],
-    "cluster_text": "Fluss/Klamm"
+    "cluster_text": "Fluss/Klamm",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm"
+      ],
+      "B": [
+        "Klamm/Schlucht",
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Metamorph"
+      ],
+      "F": [
+        "Geomorphologie"
+      ]
+    }
   },
   {
     "nr": 82,
@@ -844,7 +2577,28 @@
     "cluster": [
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Bergbau/Steinbruch"
+    "cluster_text": "Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 83,
@@ -855,7 +2609,29 @@
       "Fossilien/Schichten",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Paläontologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 84,
@@ -866,7 +2642,29 @@
       "Vulkanisch/Magmatit",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch"
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Aufschluss",
+        "Lehrpfad/Besucherbergwerk"
+      ],
+      "D": [
+        "Rhön"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 85,
@@ -879,7 +2677,35 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Ausflugsziel",
+        "Lehrpfad/Besucherbergwerk"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Paläontologie",
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 86,
@@ -892,7 +2718,31 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Fluss/Klamm, Fossilien/Schichten, Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 87,
@@ -902,7 +2752,27 @@
     "cluster": [
       "Karst/Höhle"
     ],
-    "cluster_text": "Karst/Höhle"
+    "cluster_text": "Karst/Höhle",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle"
+      ],
+      "B": [
+        "Sonstiges"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 88,
@@ -912,7 +2782,27 @@
     "cluster": [
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Bergbau/Steinbruch"
+    "cluster_text": "Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 89,
@@ -924,7 +2814,31 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Vulkanisch/Magmatit, Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Vulkanisch/Magmatit",
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Steinbruch",
+        "Moor/See"
+      ],
+      "C": [
+        "Ausflugsziel",
+        "Lehrpfad/Besucherbergwerk"
+      ],
+      "D": [
+        "Bayerischer Wald/Oberpfalz"
+      ],
+      "E": [
+        "Magmatisch"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 90,
@@ -935,7 +2849,31 @@
       "Fluss/Klamm",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch"
+    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Klamm/Schlucht",
+        "Felsformation",
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Franken"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 91,
@@ -946,7 +2884,28 @@
       "Fossilien/Schichten",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 92,
@@ -956,7 +2915,27 @@
     "cluster": [
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Bergbau/Steinbruch"
+    "cluster_text": "Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Bayerischer Wald/Oberpfalz"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 93,
@@ -967,7 +2946,30 @@
       "Fluss/Klamm",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Fluss/Klamm, Moor/See/Auen"
+    "cluster_text": "Fluss/Klamm, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 94,
@@ -978,7 +2980,29 @@
       "Fossilien/Schichten",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch"
+    "cluster_text": "Fossilien/Schichten, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Steinbruch"
+      ],
+      "C": [
+        "Ausflugsziel"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Paläontologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 95,
@@ -986,7 +3010,27 @@
     "beschreibung": "In dem weitläufigen Gelände zwischen Wernsbach und Mauk bieten aufgelassene Sandsteinbrüche eine grandiose Naturkulisse. Ihre Reste findet man als rötliche, verwitterte Felsabbrüche, Steinbögen oder Busch bestandene Sandfelder. Umgeben von hochragenden Kiefern ermöglichen sie einen Blick zurück in die beschwerliche Arbeit der Natursteingewinnung in früherer Zeit.",
     "link": "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/95/index.htm",
     "cluster": [],
-    "cluster_text": "Sonstiges"
+    "cluster_text": "Sonstiges",
+    "clusterGroups": {
+      "A": [
+        "Sonstiges"
+      ],
+      "B": [
+        "Felsformation"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Sonstiges"
+      ]
+    }
   },
   {
     "nr": 96,
@@ -998,7 +3042,31 @@
       "Fluss/Klamm",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Glazial, Fluss/Klamm, Moor/See/Auen"
+    "cluster_text": "Glazial, Fluss/Klamm, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Glazial",
+        "Fluss/Klamm",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 97,
@@ -1009,7 +3077,31 @@
       "Fluss/Klamm",
       "Bergbau/Steinbruch"
     ],
-    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch"
+    "cluster_text": "Fluss/Klamm, Bergbau/Steinbruch",
+    "clusterGroups": {
+      "A": [
+        "Fluss/Klamm",
+        "Bergbau/Steinbruch"
+      ],
+      "B": [
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen",
+        "Alpenvorland"
+      ],
+      "E": [
+        "Sedimentär",
+        "Metamorph"
+      ],
+      "F": [
+        "Hydrologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 98,
@@ -1020,7 +3112,29 @@
       "Fossilien/Schichten",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Fossilien/Schichten, Moor/See/Auen"
+    "cluster_text": "Fossilien/Schichten, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Fossilien/Schichten",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Paläontologie",
+        "Hydrologie"
+      ]
+    }
   },
   {
     "nr": 99,
@@ -1031,7 +3145,29 @@
       "Bergbau/Steinbruch",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen"
+    "cluster_text": "Bergbau/Steinbruch, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Bergbau/Steinbruch",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Moor/See"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Sonstiges"
+      ],
+      "E": [
+        "Sedimentär"
+      ],
+      "F": [
+        "Hydrologie",
+        "Rohstoffgeschichte"
+      ]
+    }
   },
   {
     "nr": 100,
@@ -1042,6 +3178,31 @@
       "Karst/Höhle",
       "Moor/See/Auen"
     ],
-    "cluster_text": "Karst/Höhle, Moor/See/Auen"
+    "cluster_text": "Karst/Höhle, Moor/See/Auen",
+    "clusterGroups": {
+      "A": [
+        "Karst/Höhle",
+        "Moor/See/Auen"
+      ],
+      "B": [
+        "Höhle",
+        "Felsformation",
+        "Moor/See",
+        "Talform"
+      ],
+      "C": [
+        "Sonstiges"
+      ],
+      "D": [
+        "Alpen"
+      ],
+      "E": [
+        "Mehrdeutig"
+      ],
+      "F": [
+        "Geomorphologie",
+        "Hydrologie"
+      ]
+    }
   }
 ]
