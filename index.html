@@ -18,6 +18,32 @@
     main{max-width:1100px;margin:0 auto;padding:0 var(--space-4) var(--space-16)} section{padding:var(--space-8) 0} h2{font-size:var(--text-xl);margin:0 0 var(--space-3);font-family:var(--font-display)} .section-intro{color:var(--color-text-muted);margin:0 0 var(--space-6)} .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--space-4)} .cluster-card{padding:var(--space-5)} .cluster-card h3{margin:0 0 .4rem;font-size:var(--text-lg)} .cluster-card p{margin:0;color:var(--color-text-muted)} .badge{display:inline-block;padding:.25rem .6rem;border-radius:999px;background:color-mix(in oklab,var(--color-primary) 14%, var(--color-surface));color:var(--color-primary);font-size:var(--text-xs);font-weight:700;letter-spacing:.03em}
     .table-wrap{overflow:auto}.table-wrap table{width:100%;border-collapse:collapse;font-size:var(--text-sm)} th,td{padding:.85rem .9rem;border-bottom:1px solid var(--color-divider);text-align:left;vertical-align:top} th{font-size:var(--text-xs);text-transform:uppercase;letter-spacing:.08em;color:var(--color-text-muted);background:var(--color-surface-2);position:sticky;top:0}.footer{max-width:1100px;margin:0 auto;padding:var(--space-8) var(--space-4) var(--space-12);color:var(--color-text-muted);font-size:var(--text-sm)}
     @media (max-width:900px){.hero{grid-template-columns:1fr}.grid{grid-template-columns:1fr 1fr}} @media (max-width:640px){.nav{align-items:flex-start;flex-direction:column}.navlinks{flex-wrap:wrap}.grid{grid-template-columns:1fr}.kpi{grid-template-columns:1fr} th,td{padding:.7rem .65rem}}
+  
+    .filter-panel{padding:var(--space-5);margin-bottom:var(--space-4)}
+    .filter-row{display:flex;flex-wrap:wrap;gap:.6rem;margin-bottom:var(--space-4)}
+    .filter-blocks{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--space-4)}
+    .filter-block{padding:var(--space-4);border:1px solid var(--color-border);border-radius:var(--radius-lg);background:var(--color-surface-2)}
+    .filter-block[hidden]{display:none}
+    .filter-title{font-size:var(--text-sm);font-weight:700;margin:0 0 .75rem}
+    .pill{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:.7rem .9rem;border-radius:999px;border:1px solid var(--color-border);background:var(--color-surface);color:var(--color-text);cursor:pointer}
+    .pill.active{background:var(--color-primary);color:#fff;border-color:var(--color-primary)}
+    .pill.secondary.active{background:color-mix(in oklab,var(--color-primary) 18%, var(--color-surface));color:var(--color-primary);border-color:var(--color-primary)}
+    .filter-help{font-size:var(--text-sm);color:var(--color-text-muted);margin-bottom:var(--space-3)}
+    .result-note{font-size:var(--text-sm);color:var(--color-text-muted);margin-top:var(--space-3)}
+    @media (max-width:640px){.filter-blocks{grid-template-columns:1fr}}
+  
+    .filter-panel{padding:var(--space-5);margin-bottom:var(--space-4)}
+    .filter-row{display:flex;flex-wrap:wrap;gap:.6rem;margin-bottom:var(--space-4)}
+    .filter-blocks{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--space-4)}
+    .filter-block{padding:var(--space-4);border:1px solid var(--color-border);border-radius:var(--radius-lg);background:var(--color-surface-2)}
+    .filter-block[hidden]{display:none}
+    .filter-title{font-size:var(--text-sm);font-weight:700;margin:0 0 .75rem}
+    .pill{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:.7rem .9rem;border-radius:999px;border:1px solid var(--color-border);background:var(--color-surface);color:var(--color-text);cursor:pointer}
+    .pill.active{background:var(--color-primary);color:#fff;border-color:var(--color-primary)}
+    .pill.secondary.active{background:color-mix(in oklab,var(--color-primary) 18%, var(--color-surface));color:var(--color-primary);border-color:var(--color-primary)}
+    .filter-help{font-size:var(--text-sm);color:var(--color-text-muted);margin-bottom:var(--space-3)}
+    .result-note{font-size:var(--text-sm);color:var(--color-text-muted);margin-top:var(--space-3)}
+    @media (max-width:640px){.filter-blocks{grid-template-columns:1fr}}
   </style>
 </head>
 <body>
@@ -75,9 +101,13 @@
     <section id="tabelle">
       <h2>Datensatz</h2>
       <p class="section-intro">Die Tabelle wird beim Laden der Seite aus der importierten JSON-Datei aufgebaut. Über das Suchfeld kannst du direkt nach Namen, Beschreibung oder Cluster filtern.</p>
-      <div class="panel" style="padding: var(--space-5); margin-bottom: var(--space-4);">
-        <label for="search" style="display:block; font-size:var(--text-sm); font-weight:700; margin-bottom:.5rem;">Suche</label>
+      <div class="panel filter-panel">
+        <label for="search" style="display:block; font-size:var(--text-sm); font-weight:700; margin-bottom:.5rem;">Freitextsuche</label>
         <input id="search" type="search" placeholder="z. B. Klamm, Ries, glazial, Solnhofen" style="width:100%; min-height:44px; padding:.85rem 1rem; border-radius:var(--radius-lg); border:1px solid var(--color-border); background:var(--color-surface-2);">
+        <div class="filter-help">1. Zeile: Cluster A-F ein-/ausblenden. Darunter: konkrete Ausprägungen je Cluster per Toggle, auch mehrfach und clusterübergreifend.</div>
+        <div class="filter-row" id="cluster-letter-row"></div>
+        <div class="filter-blocks" id="cluster-value-blocks"></div>
+        <div class="result-note" id="result-note"></div>
       </div>
       <div class="table-wrap panel">
         <table>
@@ -95,7 +125,179 @@
     const tableBody = document.getElementById('table-body');
     const search = document.getElementById('search');
     const kpiGrid = document.getElementById('kpi-grid');
+    const resultNote = document.getElementById('result-note');
+    const clusterLetterRow = document.getElementById('cluster-letter-row');
+    const clusterValueBlocks = document.getElementById('cluster-value-blocks');
     const clusterOrder = ['Bergbau/Steinbruch','Moor/See/Auen','Fluss/Klamm','Fossilien/Schichten','Vulkanisch/Magmatit','Karst/Höhle','Glazial','Impakt','Sonstiges'];
+    const clusterGroups = {"A": ["Glazial", "Karst/Höhle", "Fluss/Klamm", "Vulkanisch/Magmatit", "Impakt", "Fossilien/Schichten", "Bergbau/Steinbruch", "Moor/See/Auen"], "B": ["Klamm/Schlucht", "Höhle", "Felsformation", "Steinbruch", "Moor/See", "Talform"], "C": ["Aufschluss", "Naturdenkmal", "Ausflugsziel", "Lehrpfad/Besucherbergwerk"], "D": ["Alpen", "Alpenvorland", "Franken", "Bayerischer Wald/Oberpfalz", "Rhön"], "E": ["Sedimentär", "Magmatisch", "Metamorph", "Mehrdeutig"], "F": ["Paläontologie", "Geomorphologie", "Hydrologie", "Rohstoffgeschichte"]};
+    const selectedLetters = new Set();
+    const selectedValues = new Map(Object.keys(clusterGroups).map(k => [k, new Set()]));
+
+
+    const buildFilterUi = () => {
+      clusterLetterRow.innerHTML = Object.keys(clusterGroups).map(letter => `<button class="pill" data-letter="${letter}" type="button">Cluster ${letter}</button>`).join('');
+      clusterValueBlocks.innerHTML = Object.entries(clusterGroups).map(([letter, values]) => `
+        <section class="filter-block" data-block="${letter}" hidden>
+          <h3 class="filter-title">Cluster ${letter}</h3>
+          <div class="filter-row">
+            ${values.map(value => `<button class="pill secondary" data-value-cluster="${letter}" data-value="${value}" type="button">${value}</button>`).join('')}
+          </div>
+        </section>`).join('');
+
+      clusterLetterRow.addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-letter]');
+        if (!btn) return;
+        const letter = btn.dataset.letter;
+        const active = selectedLetters.has(letter);
+        if (active) {
+          selectedLetters.delete(letter);
+          selectedValues.get(letter).clear();
+        } else {
+          selectedLetters.add(letter);
+        }
+        updateFilterUi();
+        applyFilters();
+      });
+
+      clusterValueBlocks.addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-value-cluster]');
+        if (!btn) return;
+        const letter = btn.dataset.valueCluster;
+        const value = btn.dataset.value;
+        selectedLetters.add(letter);
+        const set = selectedValues.get(letter);
+        if (set.has(value)) set.delete(value); else set.add(value);
+        updateFilterUi();
+        applyFilters();
+      });
+    };
+
+    const updateFilterUi = () => {
+      clusterLetterRow.querySelectorAll('[data-letter]').forEach(btn => {
+        const letter = btn.dataset.letter;
+        btn.classList.toggle('active', selectedLetters.has(letter));
+      });
+      clusterValueBlocks.querySelectorAll('[data-block]').forEach(block => {
+        const letter = block.dataset.block;
+        block.hidden = !selectedLetters.has(letter);
+      });
+      clusterValueBlocks.querySelectorAll('[data-value-cluster]').forEach(btn => {
+        const letter = btn.dataset.valueCluster;
+        btn.classList.toggle('active', selectedValues.get(letter).has(btn.dataset.value));
+      });
+    };
+
+    let allData = [];
+    const applyFilters = () => {
+      const q = search.value.trim().toLowerCase();
+      const filtered = allData.filter(r => {
+        const textOk = !q || [r.name, r.beschreibung, r.cluster_text, ...Object.values(r.clusterGroups).flat()].join(' ').toLowerCase().includes(q);
+        if (!textOk) return false;
+        for (const letter of selectedLetters) {
+          const chosen = selectedValues.get(letter);
+          const rowValues = r.clusterGroups[letter] || [];
+          if (chosen.size === 0) {
+            if (!rowValues || rowValues.length === 0) return false;
+          } else {
+            const hit = [...chosen].some(v => rowValues.includes(v));
+            if (!hit) return false;
+          }
+        }
+        for (const [letter, chosen] of selectedValues.entries()) {
+          if (chosen.size > 0 && !selectedLetters.has(letter)) {
+            const rowValues = r.clusterGroups[letter] || [];
+            const hit = [...chosen].some(v => rowValues.includes(v));
+            if (!hit) return false;
+          }
+        }
+        return true;
+      });
+      resultNote.textContent = `${filtered.length} Treffer · aktive Cluster: ${selectedLetters.size ? [...selectedLetters].join(', ') : 'keine'} · aktive Wertfilter: ${[...selectedValues.entries()].flatMap(([k,s]) => [...s].map(v => `${k}:${v}`)).length}`;
+      render(filtered, allData.length);
+    };
+
+
+    const buildFilterUi = () => {
+      clusterLetterRow.innerHTML = Object.keys(clusterGroups).map(letter => `<button class="pill" data-letter="${letter}" type="button">Cluster ${letter}</button>`).join('');
+      clusterValueBlocks.innerHTML = Object.entries(clusterGroups).map(([letter, values]) => `
+        <section class="filter-block" data-block="${letter}" hidden>
+          <h3 class="filter-title">Cluster ${letter}</h3>
+          <div class="filter-row">
+            ${values.map(value => `<button class="pill secondary" data-value-cluster="${letter}" data-value="${value}" type="button">${value}</button>`).join('')}
+          </div>
+        </section>`).join('');
+
+      clusterLetterRow.addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-letter]');
+        if (!btn) return;
+        const letter = btn.dataset.letter;
+        const active = selectedLetters.has(letter);
+        if (active) {
+          selectedLetters.delete(letter);
+          selectedValues.get(letter).clear();
+        } else {
+          selectedLetters.add(letter);
+        }
+        updateFilterUi();
+        applyFilters();
+      });
+
+      clusterValueBlocks.addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-value-cluster]');
+        if (!btn) return;
+        const letter = btn.dataset.valueCluster;
+        const value = btn.dataset.value;
+        selectedLetters.add(letter);
+        const set = selectedValues.get(letter);
+        if (set.has(value)) set.delete(value); else set.add(value);
+        updateFilterUi();
+        applyFilters();
+      });
+    };
+
+    const updateFilterUi = () => {
+      clusterLetterRow.querySelectorAll('[data-letter]').forEach(btn => {
+        const letter = btn.dataset.letter;
+        btn.classList.toggle('active', selectedLetters.has(letter));
+      });
+      clusterValueBlocks.querySelectorAll('[data-block]').forEach(block => {
+        const letter = block.dataset.block;
+        block.hidden = !selectedLetters.has(letter);
+      });
+      clusterValueBlocks.querySelectorAll('[data-value-cluster]').forEach(btn => {
+        const letter = btn.dataset.valueCluster;
+        btn.classList.toggle('active', selectedValues.get(letter).has(btn.dataset.value));
+      });
+    };
+
+    let allData = [];
+    const applyFilters = () => {
+      const q = search.value.trim().toLowerCase();
+      const filtered = allData.filter(r => {
+        const textOk = !q || [r.name, r.beschreibung, r.cluster_text, ...Object.values(r.clusterGroups).flat()].join(' ').toLowerCase().includes(q);
+        if (!textOk) return false;
+        for (const letter of selectedLetters) {
+          const chosen = selectedValues.get(letter);
+          const rowValues = r.clusterGroups[letter] || [];
+          if (chosen.size === 0) {
+            if (!rowValues || rowValues.length === 0) return false;
+          } else {
+            const hit = [...chosen].some(v => rowValues.includes(v));
+            if (!hit) return false;
+          }
+        }
+        for (const [letter, chosen] of selectedValues.entries()) {
+          if (chosen.size > 0 && !selectedLetters.has(letter)) {
+            const rowValues = r.clusterGroups[letter] || [];
+            const hit = [...chosen].some(v => rowValues.includes(v));
+            if (!hit) return false;
+          }
+        }
+        return true;
+      });
+      resultNote.textContent = `${filtered.length} Treffer · aktive Cluster: ${selectedLetters.size ? [...selectedLetters].join(', ') : 'keine'} · aktive Wertfilter: ${[...selectedValues.entries()].flatMap(([k,s]) => [...s].map(v => `${k}:${v}`)).length}`;
+      render(filtered, allData.length);
+    };
 
     const render = (rows, totalRows) => {
       const counts = new Map(clusterOrder.map(k => [k, 0]));
@@ -127,12 +329,12 @@
       const res = await fetch('./data/geotope.json');
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
+      allData = data;
+      buildFilterUi();
+      updateFilterUi();
       render(data, data.length);
-      search.addEventListener('input', (e) => {
-        const q = e.target.value.trim().toLowerCase();
-        const filtered = !q ? data : data.filter(r => [r.name, r.beschreibung, r.cluster_text].join(' ').toLowerCase().includes(q));
-        render(filtered, data.length);
-      });
+      resultNote.textContent = `${data.length} Treffer · aktive Cluster: keine · aktive Wertfilter: 0`;
+      search.addEventListener('input', applyFilters);
     };
 
     init().catch(err => {
